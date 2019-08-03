@@ -47,14 +47,15 @@ Not to mention all the background code, like movement, inertia, and networking. 
 
 ## Where we're going from here
 We want to get the "Tech Demo" phase finished and released so people can play with it a bit. (and hopefully break it a bit too)
-From there the next challenge starts. 
+
+From there the next challenge starts, 
 Fleshing out the features without encountering the dreaded *feature creep* and never actually finishing the project!
 
 See You Next Week!
 
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzk0MTY2MiwtMTIyMTIyMDAwLDY5OT
+eyJoaXN0b3J5IjpbMjExODY3MjcxNCwtMTIyMTIyMDAwLDY5OT
 AzNTMwNCw3OTE1MTIwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5
 LC0xMTUyMTY0MTMyLC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC
 0xMDcyODQyNDQwLC0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4
