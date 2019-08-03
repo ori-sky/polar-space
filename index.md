@@ -14,13 +14,15 @@ as well as other space shooters like [EVERSPACE](https://everspace-game.com/), [
 To hone our programming, game design and artistic skills, and to have some fun in the process!
 
 <h2>What engine are you using?</h2>
-We've 
+We've built our own! It's called "Polar".<br>
+No need to say it, we think we're insane too.<br>
+If you want to check out the codebase, click [here](https://github.com/polar-engine/polar)
 
 <h2>Can I try the game out yet?</h2>
 Not just now, we have a small group of friends acting as internal testers, but it's not much of a "Game" quite yet. More like a tech-demo. <br>
 Once we're happy with it though, we'll start releasing the tech demos here!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODYzODcxMywtNjAyNjEyNzA3LC0xOT
-YwMjcyMzE2LC0xMjAyODYxNTA3LC0yNDUzMjI5NDQsNDMxMjgx
-MDAyXX0=
+eyJoaXN0b3J5IjpbLTEzMzUyMjU0NDMsLTYwMjYxMjcwNywtMT
+k2MDI3MjMxNiwtMTIwMjg2MTUwNywtMjQ1MzIyOTQ0LDQzMTI4
+MTAwMl19
 -->
