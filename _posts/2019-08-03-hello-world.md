@@ -17,9 +17,9 @@ A game from 1995 had these things, but nothing modern did. The closest we found 
 Shockk decided to play some [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) instead and I started playing [EVERSPACE](https://everspace-game.com/) up until we went for dinner.
 Over dinner we discussed the gameplay experiences of what we'd been playing, then it came to us. If we couldn't *find* the right game, we could *make* it!
 
-Shockk already has some background in writing game code from his time working on [Freefall](https://freefall.space), and I have experience managing small projects. We also have friends that are more art minded than us
+Shockk already has some background in writing game code from his time working on [Freefall](https://freefall.space), and I have experience managing small projects. We also have friends that are more artistic than us and are willing to lend a hand!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzk3MjU1OSwtMTEyODAzMTc1MCwtMT
-A3Mjg0MjQ0MCwtMjAzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4
-NTI5OF19
+eyJoaXN0b3J5IjpbLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLT
+EwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2
+ODUyOThdfQ==
 -->
