@@ -23,11 +23,11 @@ Shockk already has some background in writing game code from his time working on
 
 ## What we've got done in 3 weeks
 To put it simply, we've gone from this:
-![It's a Cube, in space](assets/Spacegame_Cube.png)
+![It's a Cube, in space](assets/image/Spacegame_Cube.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg2NDQ4MDMsLTE2MDcyNjAxMjksLT
-ExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEw
-NzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2OD
-UyOThdfQ==
+eyJoaXN0b3J5IjpbLTUwNDk5ODczNSwtMTYwNzI2MDEyOSwtMT
+E1MjE2NDEzMiwtMTMzNzQ3NTgxMiwtMTEyODAzMTc1MCwtMTA3
+Mjg0MjQ0MCwtMjAzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NT
+I5OF19
 -->
