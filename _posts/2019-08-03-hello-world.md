@@ -13,10 +13,10 @@ Normally content to just play games we had just grabbed an abandonware copy of [
  - A variety of weaponry
  - Interesting worlds
 
-A game from 1995 had these things, but nothing
+A game from 1995 had these things, but nothing modern did. The closest we found was [EVE Valkyrie](https://www.evevalkyrie.com/) but it has been discontinued (maybe?), has a rather intense set of system requirements, and was a bit pricey to just check out if it turned out to be the wrong thing.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDQyNjg2NCwtMTEyODAzMTc1MCwtMT
-A3Mjg0MjQ0MCwtMjAzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4
-NTI5OF19
+eyJoaXN0b3J5IjpbMzQ4OTg5OTk5LC0xMTI4MDMxNzUwLC0xMD
+cyODQyNDQwLC0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4Njg1
+Mjk4XX0=
 -->
