@@ -1,5 +1,6 @@
-<h1>A Currently Untitled Space Shooter</h1>
-
+---
+title: A Currently Untitled Space Shooter
+---
 <h2>Who are you? </h2>
 Two people that got bored of not having the exact game they wanted to play one day. <br>We've also brought some friends along for the ride!
 
@@ -29,7 +30,7 @@ We only have a vague idea of what we are doing, so this website is as experiment
 There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with posts by members of the team.<br>
 The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjE3MDQ0OCw1NTU2NTg4OTUsLTYwMj
-YxMjcwNywtMTk2MDI3MjMxNiwtMTIwMjg2MTUwNywtMjQ1MzIy
-OTQ0LDQzMTI4MTAwMl19
+eyJoaXN0b3J5IjpbLTEzMzI4NzQyNTUsLTU4MjE3MDQ0OCw1NT
+U2NTg4OTUsLTYwMjYxMjcwNywtMTk2MDI3MjMxNiwtMTIwMjg2
+MTUwNywtMjQ1MzIyOTQ0LDQzMTI4MTAwMl19
 -->
