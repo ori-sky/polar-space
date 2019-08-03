@@ -24,11 +24,11 @@ Shockk already has some background in writing game code from his time working on
 ## What we've got done in 3 weeks
 To put it simply, we've gone from this:
 
-![It's a Cube, in space](/polar-space/assets/img/Spacegame_Cube.png)
+![It's a Cube, in the cold empty nothingness of space](/polar-space/assets/img/Spacegame_Cube.png)
 
 To this:
 
-![It's a Ship! In an Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
+![It's a stock spaceship! In a colourful Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
 
 Not to mention all the background code, like movement, inertia, and networking. Shockk'll upload a big long ~~rant~~ post about that some time in the next week or so.
 
@@ -55,9 +55,9 @@ See You Next Week!
 
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NTEwNzkzLC0xMjIxMjIwMDAsNjk5MD
-M1MzA0LDc5MTUxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjks
-LTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLT
-EwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2
-ODUyOThdfQ==
+eyJoaXN0b3J5IjpbMTE2MjgyMzcwMywtMTIyMTIyMDAwLDY5OT
+AzNTMwNCw3OTE1MTIwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5
+LC0xMTUyMTY0MTMyLC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC
+0xMDcyODQyNDQwLC0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4
+Njg1Mjk4XX0=
 -->
