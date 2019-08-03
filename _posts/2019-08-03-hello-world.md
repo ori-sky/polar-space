@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hello, world!
-categories: Gener
+categories: general
 ---
 Welcome to the blog!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzExNzk5OTcsMjEyOTAxNDQxNCwzMT
+eyJoaXN0b3J5IjpbLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMT
 g2ODUyOThdfQ==
 -->
