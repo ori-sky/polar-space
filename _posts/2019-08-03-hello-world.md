@@ -52,11 +52,10 @@ We want to get the "Tech Demo" phase finished and released so people can play wi
 From there the next challenge starts, 
 Fleshing out the features without encountering the dreaded *feature creep* and never actually finishing the project!
 
-See You Next Week!
-
+See You Next Week!  
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDcyNTAyOSwxMTYyODIzNzAzLC0xMj
+eyJoaXN0b3J5IjpbLTc2MjU4OTE5MywxMTYyODIzNzAzLC0xMj
 IxMjIwMDAsNjk5MDM1MzA0LDc5MTUxMjAzOCw4MzQ3OTUyNzMs
 LTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLT
 ExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEy
