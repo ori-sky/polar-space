@@ -5,11 +5,14 @@ layout: blog
 
 {::nomarkdown}
 {% for post in site.posts %}
-	<div class="content-box">
-		<h1>{{ post.title }}</h1>
-		<section>
-		</section>
-	</div>
+	<a href="{{ post.url | remove_first:'/' }}">
+		<div class="content-box">
+			<h1>{{ post.title }}</h1>
+			<section>
+				{{ post.description }}
+			</section>
+		</div>
+	</a>
 {% endfor %}
 {:/}
 
