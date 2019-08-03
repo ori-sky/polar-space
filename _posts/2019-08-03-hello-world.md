@@ -36,10 +36,14 @@ Our "tech demo" has:
 
  - [x] Full 360° Movement
  - [x] A randomly generated asteroid field
- - [x] Basic Netcode (
+ - [x] Basic Netcode
+	 - Allowing theoretically "infinite" players
+	 - Standalone/Dedicated server
+ - [x] Supports Windows and MacOS (and Linux via Wine)
+ - [x] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMzMDQ0ODEsNjk5MDM1MzA0LDc5MT
+eyJoaXN0b3J5IjpbLTIwODY5MzgyNDksNjk5MDM1MzA0LDc5MT
 UxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQx
 MzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0ND
 AsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
