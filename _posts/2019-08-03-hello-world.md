@@ -39,18 +39,18 @@ Not to mention all the background code, like movement, inertia, and networking. 
 	 - Allowing theoretically "infinite" players
 	 - Standalone/Dedicated server
  - ✔ Supports Windows and MacOS (and Linux via WINE)
- - [x] Loading 3D Models from OBJ files
+ - ✔ Loading 3D Models from OBJ files
 ### We will be happy once it has:
-- [ ] Ship/Player health
-- [ ] Collision Detection for Players and Environment
-- [ ] Working weaponry/damage model
+- Ship/Player health
+- Collision Detection for Players and Environment
+- Working weaponry/damage model
 
 ## Where we're going from here
 We want to get the "Tech Demo" phase finished and released so people can play with it a bit. (and hopefully break it a bit too)
 From there the next challenge starts. Fleshing out the features without encountering the dreaded *feature creep* and never actually finishing the project.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzQyNjQ3LDY5OTAzNTMwNCw3OTE1MT
-IwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5LC0xMTUyMTY0MTMy
-LC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC0xMDcyODQyNDQwLC
-0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4Njg1Mjk4XX0=
+eyJoaXN0b3J5IjpbMTkwNDY1MjE2Myw2OTkwMzUzMDQsNzkxNT
+EyMDM4LDgzNDc5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEz
+MiwtMTMzNzQ3NTgxMiwtMTEyODAzMTc1MCwtMTA3Mjg0MjQ0MC
+wtMjAzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
 -->
