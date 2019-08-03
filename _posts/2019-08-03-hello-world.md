@@ -23,11 +23,15 @@ Shockk already has some background in writing game code from his time working on
 
 ## What we've got done in 3 weeks
 To put it simply, we've gone from this:
+
 ![It's a Cube, in space](/polar-space/assets/img/Spacegame_Cube.png)
 
+To this:
+
+![It's a Ship! In an Asteroid Field!](/polar-space/assets/img/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkyNDM0MTIsODM0Nzk1MjczLC0xNj
-A3MjYwMTI5LC0xMTUyMTY0MTMyLC0xMzM3NDc1ODEyLC0xMTI4
-MDMxNzUwLC0xMDcyODQyNDQwLC0yMDMzNzMyMTc4LDIxMjkwMT
-Q0MTQsMzE4Njg1Mjk4XX0=
+eyJoaXN0b3J5IjpbNzkxNTEyMDM4LDgzNDc5NTI3MywtMTYwNz
+I2MDEyOSwtMTE1MjE2NDEzMiwtMTMzNzQ3NTgxMiwtMTEyODAz
+MTc1MCwtMTA3Mjg0MjQ0MCwtMjAzMzczMjE3OCwyMTI5MDE0ND
+E0LDMxODY4NTI5OF19
 -->
