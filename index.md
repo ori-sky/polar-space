@@ -21,8 +21,12 @@ If you want to check out the codebase, click [here](https://github.com/polar-eng
 <h2>Can I try the game out yet?</h2>
 Not just now, we have a small group of friends acting as internal testers, but it's not much of a "Game" quite yet. More like a tech-demo. <br>
 Once we're happy with it though, we'll start releasing the tech demos here!
+
+<h2>This website is really janky! What's up with that?</h2>
+We only have a vague idea of what we are doing, so this website is as experimental as our game code! <br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NjU4ODk1LC02MDI2MTI3MDcsLTE5Nj
-AyNzIzMTYsLTEyMDI4NjE1MDcsLTI0NTMyMjk0NCw0MzEyODEw
-MDJdfQ==
+eyJoaXN0b3J5IjpbNzEwNzI2NTg4LDU1NTY1ODg5NSwtNjAyNj
+EyNzA3LC0xOTYwMjcyMzE2LC0xMjAyODYxNTA3LC0yNDUzMjI5
+NDQsNDMxMjgxMDAyXX0=
 -->
