@@ -51,10 +51,12 @@ From there the next challenge starts.
 Fleshing out the features without encountering the dreaded *feature creep* and never actually finishing the project!
 
 See You Next Week!
+
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNT
-EyMDM4LDgzNDc5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEz
-MiwtMTMzNzQ3NTgxMiwtMTEyODAzMTc1MCwtMTA3Mjg0MjQ0MC
-wtMjAzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
+eyJoaXN0b3J5IjpbMTgxNzk0MTY2MiwtMTIyMTIyMDAwLDY5OT
+AzNTMwNCw3OTE1MTIwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5
+LC0xMTUyMTY0MTMyLC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC
+0xMDcyODQyNDQwLC0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4
+Njg1Mjk4XX0=
 -->
