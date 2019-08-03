@@ -13,10 +13,14 @@ as well as other space shooters like [EVERSPACE](https://everspace-game.com/), [
 <h2>Why are you doing this?</h2>
 To hone our programming, game design and artistic skills, and to have some fun in the process!
 
+<h2>What engine are you using?</h2>
+We've 
+
 <h2>Can I try the game out yet?</h2>
-Not just now, we have a small group of friends acting as internal testers
+Not just now, we have a small group of friends acting as internal testers, but it's not much of a "Game" quite yet. More like a tech-demo. <br>
+Once we're happy with it though, we'll start releasing the tech demos here!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjY5NDg4NywtNjAyNjEyNzA3LC0xOT
+eyJoaXN0b3J5IjpbLTk4ODYzODcxMywtNjAyNjEyNzA3LC0xOT
 YwMjcyMzE2LC0xMjAyODYxNTA3LC0yNDUzMjI5NDQsNDMxMjgx
 MDAyXX0=
 -->
