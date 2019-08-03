@@ -26,9 +26,10 @@ Once we're happy with it though, we'll start releasing the tech demos here!
 We only have a vague idea of what we are doing, so this website is as experimental as our game code! <br>
 
 <h2>Ok, I'm interested. How do I follow your progress?</h2>
-There *should* be some buttons up on the top bar for you to click on to take you to 
+There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with posts by members of the team.<br>
+The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjUxMzU5MSw1NTU2NTg4OTUsLTYwMj
+eyJoaXN0b3J5IjpbLTU4MjE3MDQ0OCw1NTU2NTg4OTUsLTYwMj
 YxMjcwNywtMTk2MDI3MjMxNiwtMTIwMjg2MTUwNywtMjQ1MzIy
 OTQ0LDQzMTI4MTAwMl19
 -->
