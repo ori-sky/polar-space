@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+
+defaults:
+-
+    scope:
+      locale: "en" # To sort by locale. You could also sort by path.
+      type: "posts"
+    values:
+      permalink: polar-space/:categories/:year/:month/:title/
