@@ -23,9 +23,11 @@ Over dinner we discussed the gameplay experiences of what we'd been playing, the
 Shockk already has some background in writing game code from his time working on [Freefall](https://freefall.space), and I have experience managing small projects. We also have friends that are more artistic than us and are willing to lend a hand!
 
 ## What we've got done in 3 weeks
+To put it simply, we've gone from this:
+![It's a Cube, in space](assets/Spacegame_Cube.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLT
-ExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEy
-OTAxNDQxNCwzMTg2ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLT
+EzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIw
+MzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
