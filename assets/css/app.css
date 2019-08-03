@@ -47,9 +47,12 @@ body {
 	font-variant: small-caps;
 }
 
-.responsive {
-	background: rgba(255, 255, 255, 0.85);
+.content-shadow {
 	box-shadow: 0 0 13px rgba(0, 0, 0, 0.9);
+}
+
+.content-box {
+	background: rgba(255, 255, 255, 0.85);
 	padding-left: 12px;
 	padding-right: 12px;
 	padding-top: 8px;
@@ -57,12 +60,12 @@ body {
 	margin-bottom: 1%;
 }
 
-.responsive > h1 {
+.content-box > h1 {
 	text-align: center;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 	font-variant: small-caps;
 }
 
-.responsive > section > h2 {
+.content-box > section > h2 {
 	font-variant: small-caps;
 }
