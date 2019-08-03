@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Hello, world!
-categories: general
+author: Shockk
 ---
 Welcome to the blog!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMT
-g2ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMj
+EyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
