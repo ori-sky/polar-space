@@ -3,6 +3,9 @@ title: Hello, world!
 category: main
 author: 🦊
 ---
+## The Story So Far
+
+</h3>
 Just over three weeks ago, Shockk and I decided to embark on an *epic journey* into the world of game development.
 So far this has not proven to be a terrible mistake.
 
@@ -18,8 +21,11 @@ Shockk decided to play some [Overwatch](https://en.wikipedia.org/wiki/Overwatch_
 Over dinner we discussed the gameplay experiences of what we'd been playing, then it came to us. If we couldn't *find* the right game, we could *make* it!
 
 Shockk already has some background in writing game code from his time working on [Freefall](https://freefall.space), and I have experience managing small projects. We also have friends that are more artistic than us and are willing to lend a hand!
+
+## What we've got done in 3 weeks
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLT
-EwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2
-ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLT
+ExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEy
+OTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
