@@ -1,5 +1,5 @@
 ---
-title: Hello, world!
+title: Hello, Spacegame!
 category: main
 author: 🦊 The Fox
 ---
@@ -57,9 +57,10 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 See You Next Week!  
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDU2Nzk3MSwtNzYyNTg5MTkzLDExNj
-I4MjM3MDMsLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNTEyMDM4
-LDgzNDc5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEzMiwtMT
-MzNzQ3NTgxMiwtMTEyODAzMTc1MCwtMTA3Mjg0MjQ0MCwtMjAz
-MzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
+eyJoaXN0b3J5IjpbODkyMjE1NzA5LDIwNDA1Njc5NzEsLTc2Mj
+U4OTE5MywxMTYyODIzNzAzLC0xMjIxMjIwMDAsNjk5MDM1MzA0
+LDc5MTUxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNT
+IxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4
+NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOT
+hdfQ==
 -->
