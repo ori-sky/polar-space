@@ -2,8 +2,7 @@
 layout: post
 title: "Hello, world!"
 ---
-# Welcome
-Welcome to the website!
+Welcome to the blog!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4Njg1Mjk4XX0=
+eyJoaXN0b3J5IjpbMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
