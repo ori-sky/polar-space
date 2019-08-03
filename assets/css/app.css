@@ -58,6 +58,6 @@ body {
 	font-variant: small-caps;
 }
 
-.responsive > h2 {
+.responsive > section > h2 {
 	font-variant: small-caps;
 }
