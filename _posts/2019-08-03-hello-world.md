@@ -2,6 +2,7 @@
 title: Hello, Spacegame!
 category: main
 author: 🦊 The Fox
+description: Our first blog post outlining why we started and where we're headed!
 ---
 ## The Story So Far
 
@@ -57,10 +58,10 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 See You Next Week!  
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMjE1NzA5LDIwNDA1Njc5NzEsLTc2Mj
-U4OTE5MywxMTYyODIzNzAzLC0xMjIxMjIwMDAsNjk5MDM1MzA0
-LDc5MTUxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNT
-IxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4
-NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOT
-hdfQ==
+eyJoaXN0b3J5IjpbLTEzNjEyMTA0ODksODkyMjE1NzA5LDIwND
+A1Njc5NzEsLTc2MjU4OTE5MywxMTYyODIzNzAzLC0xMjIxMjIw
+MDAsNjk5MDM1MzA0LDc5MTUxMjAzOCw4MzQ3OTUyNzMsLTE2MD
+cyNjAxMjksLTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgw
+MzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxND
+QxNCwzMTg2ODUyOThdfQ==
 -->
