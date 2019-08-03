@@ -28,10 +28,10 @@ To put it simply, we've gone from this:
 
 To this:
 
-![It's a Ship! In an Asteroid Field!](/polar-space/assets/img/
+![It's a Ship! In an Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNTEyMDM4LDgzNDc5NTI3MywtMTYwNz
-I2MDEyOSwtMTE1MjE2NDEzMiwtMTMzNzQ3NTgxMiwtMTEyODAz
-MTc1MCwtMTA3Mjg0MjQ0MCwtMjAzMzczMjE3OCwyMTI5MDE0ND
-E0LDMxODY4NTI5OF19
+eyJoaXN0b3J5IjpbNjk5MDM1MzA0LDc5MTUxMjAzOCw4MzQ3OT
+UyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLTEzMzc0NzU4
+MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNz
+gsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
