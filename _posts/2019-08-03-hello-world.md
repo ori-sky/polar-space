@@ -1,10 +1,10 @@
 ---
 title: Hello, world!
-category: 
+category: general
 author: Shockk
 ---
 Welcome to the blog!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDg1MzM1OCwtMTA3Mjg0MjQ0MCwtMj
-AzMzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
+eyJoaXN0b3J5IjpbLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLT
+IwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
