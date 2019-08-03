@@ -42,11 +42,13 @@ Not to mention all the background code, like movement, inertia, and networking. 
  - [x] Loading 3D Models from OBJ files
 ### We will be happy once it has:
 - [ ] Ship/Player health
-- [ ] Collission Detection for Players and Environment
-- [ ] 
+- [ ] Collision Detection for Players and Environment
+- [ ] Working weaponry/damage model
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NzQ5Mzg5LDY5OTAzNTMwNCw3OTE1MT
-IwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5LC0xMTUyMTY0MTMy
-LC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC0xMDcyODQyNDQwLC
-0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4Njg1Mjk4XX0=
+eyJoaXN0b3J5IjpbOTI5ODMwNjEsNjk5MDM1MzA0LDc5MTUxMj
+AzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQxMzIs
+LTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLT
+IwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
 -->
