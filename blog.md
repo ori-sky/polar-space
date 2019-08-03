@@ -6,6 +6,7 @@ title: Stuff What We Wrote
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
