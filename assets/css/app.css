@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Wallpoet");
+
+body {
+	/*background: url("/img/bg1.png") no-repeat center center fixed;*/
+  background: #222120;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#logo {
+	width: 12.8em;
+	height: 3.6em;
+	background: url("/img/logo.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.sticky {
+	width: 100%;
+}
+
+.top-bar-container {
+	margin-bottom: 1%;
+}
+
+.top-bar .dropdown {
+	background: initial;
+}
+
+.top-bar ul > li {
+	font-size: 150%;
+}
+
+.top-bar ul > li > a {
+	margin-top: 5%;
+	text-shadow: 1px 0.5px 1px rgba(0,0,0,0.9);
+	font-family: "Wallpoet", cursive;
+	font-variant: small-caps;
+}
+
+.responsive-embed {
+	box-shadow: 0 0 13px rgba(0, 0, 0, 0.9);
+}
