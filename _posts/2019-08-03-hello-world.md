@@ -34,10 +34,12 @@ Not to mention all the background code, like movement, inertia, and networking. 
 
 Our "tech demo" has:
 
- - Full 360° Movement
+ - [x] Full 360° Movement
+ - [x] A randomly generated asteroid field
+ - [x] Basic Netcode (
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQzNDk1MTYsNjk5MDM1MzA0LDc5MT
+eyJoaXN0b3J5IjpbLTIwODMzMDQ0ODEsNjk5MDM1MzA0LDc5MT
 UxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQx
 MzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0ND
 AsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
