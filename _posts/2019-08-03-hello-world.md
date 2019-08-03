@@ -29,9 +29,17 @@ To put it simply, we've gone from this:
 To this:
 
 ![It's a Ship! In an Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
+
+Not to mention all the background code, like movement, inertia, and networking. Shockk'll post a big long ~~rant~~ post about that some time in the next week or so.
+
+Our "tech demo" has:
+
+ - Full 360° Movement
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MDM1MzA0LDc5MTUxMjAzOCw4MzQ3OT
-UyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLTEzMzc0NzU4
-MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNz
-gsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTE1NTQzNDk1MTYsNjk5MDM1MzA0LDc5MT
+UxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQx
+MzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0ND
+AsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
+
 -->
