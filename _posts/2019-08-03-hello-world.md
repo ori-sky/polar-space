@@ -32,20 +32,21 @@ To this:
 
 Not to mention all the background code, like movement, inertia, and networking. Shockk'll post a big long ~~rant~~ post about that some time in the next week or so.
 
-Our "tech demo" has:
-
+### Our "tech demo" has:
  - [x] Full 360° Movement
  - [x] A randomly generated asteroid field
  - [x] Basic Netcode
 	 - Allowing theoretically "infinite" players
 	 - Standalone/Dedicated server
- - [x] Supports Windows and MacOS (and Linux via Wine)
- - [x] 
-
+ - [x] Supports Windows and MacOS (and Linux via WINE)
+ - [x] Loading 3D Models from OBJ files
+### We will be happy once it has:
+- [ ] Ship/Player health
+- [ ] Collission Detection for Players and Environment
+- [ ] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY5MzgyNDksNjk5MDM1MzA0LDc5MT
-UxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQx
-MzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0ND
-AsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
-
+eyJoaXN0b3J5IjpbMzA2NzQ5Mzg5LDY5OTAzNTMwNCw3OTE1MT
+IwMzgsODM0Nzk1MjczLC0xNjA3MjYwMTI5LC0xMTUyMTY0MTMy
+LC0xMzM3NDc1ODEyLC0xMTI4MDMxNzUwLC0xMDcyODQyNDQwLC
+0yMDMzNzMyMTc4LDIxMjkwMTQ0MTQsMzE4Njg1Mjk4XX0=
 -->
