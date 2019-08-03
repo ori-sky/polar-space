@@ -5,7 +5,6 @@ author: 🦊
 ---
 ## The Story So Far
 
-</h3>
 Just over three weeks ago, Shockk and I decided to embark on an *epic journey* into the world of game development.
 So far this has not proven to be a terrible mistake.
 
@@ -27,7 +26,8 @@ To put it simply, we've gone from this:
 ![It's a Cube, in space](assets/Spacegame_Cube.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLT
-EzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIw
-MzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTExMzg2NDQ4MDMsLTE2MDcyNjAxMjksLT
+ExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEw
+NzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2OD
+UyOThdfQ==
 -->
