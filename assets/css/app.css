@@ -69,3 +69,7 @@ body {
 .content-box > section > h2 {
 	font-variant: small-caps;
 }
+
+.content-box > section img {
+	box-shadow: 0 0 13px rgba(0, 0, 0, 0.9);
+}
