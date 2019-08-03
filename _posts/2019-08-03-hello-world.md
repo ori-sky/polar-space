@@ -5,7 +5,7 @@ author: 🦊 The Fox
 ---
 ## The Story So Far
 
-Just over three weeks ago, Shockk and I decided to embark on an *epic journey* into the world of game development.
+Just over three weeks ago, Shockk and I decided to embark on an *epic journey* into the world of game development.  
 So far this has not proven to be a terrible mistake.
 
 Normally content to just play games we had grabbed an abandonware copy of [Hellbender](https://en.wikipedia.org/wiki/Hellbender_(video_game)) for some 1-on-1 spaceship dogfighting action. Whilst fun, the game was slow and unstable (it is from 1995 after all), so we went looking for a modern equivalent. We could not find one that met our needs:
@@ -55,9 +55,9 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 See You Next Week!  
 -🦊 Fox, Project Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjU4OTE5MywxMTYyODIzNzAzLC0xMj
-IxMjIwMDAsNjk5MDM1MzA0LDc5MTUxMjAzOCw4MzQ3OTUyNzMs
-LTE2MDcyNjAxMjksLTExNTIxNjQxMzIsLTEzMzc0NzU4MTIsLT
-ExMjgwMzE3NTAsLTEwNzI4NDI0NDAsLTIwMzM3MzIxNzgsMjEy
-OTAxNDQxNCwzMTg2ODUyOThdfQ==
+eyJoaXN0b3J5IjpbLTQ1OTQ2MDYxNywtNzYyNTg5MTkzLDExNj
+I4MjM3MDMsLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNTEyMDM4
+LDgzNDc5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEzMiwtMT
+MzNzQ3NTgxMiwtMTEyODAzMTc1MCwtMTA3Mjg0MjQ0MCwtMjAz
+MzczMjE3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
 -->
