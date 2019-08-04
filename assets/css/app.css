@@ -85,8 +85,12 @@ body {
 .blog-preview > h4 {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 	text-align: right;
-	font-size: 75%;
-	color: rgba(0, 0, 0, 0.8);
+	font-size: 80%;
+	color: rgba(0, 0, 0, 0.5);
 	padding-bottom: 8px;
 	margin-bottom: 4px;
+}
+
+.blog-preview > section {
+	color: rgba(0, 0, 0, 0.85);
 }
