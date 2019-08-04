@@ -11,6 +11,9 @@ layout: blog
 				<h3>{{ post.title }}</h3>
 				<h4>by {{ post.author }}</h4>
 			</div>
+			<section>
+				{{ post.description }}
+			</section>
 		</a>
 	</div>
 {% endfor %}
