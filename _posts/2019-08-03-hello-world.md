@@ -32,6 +32,8 @@ To this:
 
 ![It's a stock spaceship! In a colourful Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/rFNZNxu8T-M" frameborder="0" allowfullscreen></iframe>
+
 Not to mention all the background code, like movement, inertia, and networking.  
 Shockk'll upload a big long ~~rant~~ post about that some time in the next week or so.
 
