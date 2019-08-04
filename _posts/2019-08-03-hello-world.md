@@ -56,9 +56,10 @@ From there the next challenge starts,
 Fleshing out the features without encountering the dreaded *feature creep* and never actually finishing the project!
 
 See You Next Week!  
--{{ page.author }}, Project Manager
+-{{ page.author }}, Project Manager  
+-[[ page.date ]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTc2NzU1OCwtMTM2MTIxMDQ4OSw4OT
+eyJoaXN0b3J5IjpbMTM5MTgyNjQzNCwtMTM2MTIxMDQ4OSw4OT
 IyMTU3MDksMjA0MDU2Nzk3MSwtNzYyNTg5MTkzLDExNjI4MjM3
 MDMsLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNTEyMDM4LDgzND
 c5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEzMiwtMTMzNzQ3
