@@ -30,8 +30,6 @@ To put it simply, we've gone from this:
 
 To this:
 
-![It's a stock spaceship! In a colourful Asteroid Field!](/polar-space/assets/img/Spacegame_2019-08-03.png)
-
 <div class="responsive-embed widescreen">
 	<iframe width="960" height="540" src="https://www.youtube.com/embed/rFNZNxu8T-M" frameborder="0" allowfullscreen></iframe>
 </div>
