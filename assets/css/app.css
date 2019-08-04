@@ -72,11 +72,11 @@ body {
 }
 
 .blog-preview {
-	height: 2em;
-	margin-bottom: 0.5em;
+	height: 15em;
+	margin-bottom: 1.5em;
 }
 
-.blog-preview > h2 {
+.blog-preview > h3 {
 	text-align: center;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 	font-variant: small-caps;
