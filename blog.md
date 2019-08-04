@@ -5,7 +5,7 @@ layout: blog
 
 {::nomarkdown}
 {% for post in site.posts %}
-	<div class="small-4 columns">
+	<div class="columns">
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
 				<h3>{{ post.title }}</h3>
