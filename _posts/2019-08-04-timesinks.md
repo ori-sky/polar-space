@@ -1,6 +1,6 @@
 ---
 title: Project Timesinks
-category: Development
+category: Thinkpiece
 author: 🦊 The Fox
 description: A discussion on the curse that is "Timesinks" and what they can do to development.
 ---
@@ -8,6 +8,12 @@ description: A discussion on the curse that is "Timesinks" and what they can do 
 Well, not really. Take this website, for instance.  
 We started working on it at around 5pm, and didn't finish it, fully, until after midnight. A massive, horrifying timesink that came with strange problems that needed debugged and caused no progress for the project.  
 Why did we start? We felt that now was the time to start a development blog, and thought it would be quick and easy to throw together. By the time we were several hours in, it was too late, we now *had* to finish what we were doing on it.  
+
+Could it have been avoided?  
+Probably not.
+
+Why couldn't it have been avoided?  
+Well
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTIxODUzN119
+eyJoaXN0b3J5IjpbMTMxMTM4NzM5MV19
 -->
