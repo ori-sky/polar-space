@@ -8,9 +8,8 @@ layout: blog
 	<div class="small-4 columns">
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
-				<h>{{ post.title }}</h3>
-				<h4>by {{ post.author }}</h4
-			>
+				<h3>{{ post.title }}</h3>
+				<h4>by {{ post.author }}</h4>
 			</div>
 		</a>
 	</div>
