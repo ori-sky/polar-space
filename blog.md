@@ -9,6 +9,7 @@ layout: blog
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
 				<h3>{{ post.title }}</h3>
+				by {{ post.author }}
 				<section>
 					{{ post.description }}
 				</section>
