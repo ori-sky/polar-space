@@ -7,7 +7,7 @@ layout: blog
 {% for post in site.posts %}
 	<div class="small-4 columns">
 		<a href="{{ post.url | remove_first:'/' }}">
-			<div class="content-box">
+			<div class="content-box blog-preview">
 				<h1>{{ post.title }}</h1>
 				<section>
 					{{ post.description }}
