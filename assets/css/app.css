@@ -57,7 +57,7 @@ body {
 	margin-bottom: 16px;
 }
 
-.content-box > h1 {
+.content-title > h1 {
 	text-align: center;
 	font-variant: small-caps;
 }
