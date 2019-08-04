@@ -79,9 +79,13 @@ body {
 .blog-preview > h3 {
 	text-align: center;
 	font-variant: small-caps;
+	margin-bottom: 0.12rem;
 }
 
 .blog-preview > h4 {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
-	font-size: 80%;
+	font-size: 75%;
+	color: rgba(0, 0, 0, 0.8);
+	padding-bottom: 8px;
+	margin-bottom: 4px;
 }
