@@ -57,13 +57,33 @@ body {
 	margin-bottom: 16px;
 }
 
+.content-title {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
 .content-title > h1 {
 	text-align: center;
 	font-variant: small-caps;
+	margin-bottom: 0.25em;
 }
 
-.content-title {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+.content-title > h2 {
+	text-align: center;
+	font-variant: small-caps;
+	margin-bottom: 0.25em;
+}
+
+.content-title > h3 {
+	text-align: center;
+	font-variant: small-caps;
+	margin-bottom: 0.25em;
+}
+
+.content-title > h4 {
+	text-align: right;
+	font-size: 80%;
+	color: rgba(0, 0, 0, 0.75);
+	padding-bottom: 4px;
 }
 
 .content-box > section > h2 {
@@ -77,20 +97,6 @@ body {
 .blog-preview {
 	height: 15em;
 	margin-bottom: 1.5em;
-}
-
-.content-title > h3 {
-	text-align: center;
-	font-variant: small-caps;
-}
-
-.content-title > h4 {
-	text-align: right;
-	font-size: 80%;
-	color: rgba(0, 0, 0, 0.75);
-	padding-bottom: 8px;
-	margin-top: 0.12rem;
-	margin-bottom: 4px;
 }
 
 .blog-preview > section {
