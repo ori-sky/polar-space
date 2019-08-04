@@ -64,26 +64,25 @@ body {
 .content-title > h1 {
 	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.25em;
+	margin-bottom: 0.25rem;
 }
 
 .content-title > h2 {
 	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.25em;
+	margin-bottom: 0.25rem;
 }
 
 .content-title > h3 {
 	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.25em;
+	margin-bottom: 0.25rem;
 }
 
 .content-title > h4 {
 	text-align: right;
 	font-size: 80%;
 	color: rgba(0, 0, 0, 0.75);
-	padding-bottom: 4px;
 }
 
 .content-box > section > h2 {
