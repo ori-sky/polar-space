@@ -10,10 +10,10 @@ layout: blog
 			<div class="content-box blog-preview">
 				<h3>{{ post.title }}</h3>
 				<h4>by {{ post.author }}</h4>
+				<section>
+					{{ post.description }}
+				</section>
 			</div>
-			<section>
-				{{ post.description }}
-			</section>
 		</a>
 	</div>
 {% endfor %}
