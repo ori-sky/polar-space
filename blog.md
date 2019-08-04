@@ -8,7 +8,7 @@ layout: blog
 	<div class="small-4 columns">
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
-				<h1>{{ post.title }}</h1>
+				<h3>{{ post.title }}</h3>
 				<section>
 					{{ post.description }}
 				</section>
