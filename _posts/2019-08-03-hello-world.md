@@ -1,6 +1,6 @@
 ---
 title: Hello, Spacegame!
-category: main
+category: Development
 author: 🦊 The Fox
 description: Our first blog post outlining why we started and where we're headed!
 ---
@@ -59,3 +59,6 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 
 See You Next Week!  
 -{{ page.author }}, Project Manager
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDgwNzA1MThdfQ==
+-->
