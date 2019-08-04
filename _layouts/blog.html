@@ -1,32 +1,8 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta charset="utf-8">
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="/polar-space/assets/css/foundation.min.css">
-		<link rel="stylesheet" href="/polar-space/assets/css/app.css">
-	</head>
+	{% include head.html %}
 	<body>
-		<div class="top-bar-container" data-sticky-container>
-			<div class="sticky" data-sticky data-options="anchor: page; marginTop: 0; stickyOn: large;">
-				<div class="top-bar">
-					<div class="top-bar-left">
-						<ul class="dropdown menu" data-dropdown-menu>
-							<li><a href="/polar-space">Home</a></li>
-						</ul>
-					</div>
-					<div class="top-bar-right">
-						<ul class="dropdown menu" data-dropdown-menu>
-							<li><a href="/polar-space/blog">Blog</a></li>
-							<li><a href="#">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		
+		{% include header.html %}
 		<div class="row">
 			{{ content }}
 		</div>
