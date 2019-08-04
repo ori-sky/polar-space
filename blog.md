@@ -13,11 +13,13 @@ layout: blog
 					{{ post.description }}
 				</section>
 			</div>
-		</a>
+			{{ post.esripti }}
+			section</>
 	</div>
 {% endfor %}
 {:/}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODE2NzQsLTQ2NzA3ODkxNV19
+eyJoaXN0b3J5IjpbLTExNzM5NTg3NTAsLTcxODE2NzQsLTQ2Nz
+A3ODkxNV19
 -->
