@@ -8,11 +8,10 @@ layout: blog
 	<div class="small-4 columns">
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
-				<h3>{{ post.title }}</h3>
-				by {{ post.author }}
-				<section>
-					{{ post.description }}
-				</section>
+				<h3>{{ post.title }}</h
+				by {{ post.author }}1>
+				<s>
+					</section>
 			</div>
 		</a>
 	</div>
@@ -20,6 +19,6 @@ layout: blog
 {:/}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5NTg3NTAsLTcxODE2NzQsLTQ2Nz
-A3ODkxNV19
+eyJoaXN0b3J5IjpbMTI0MjA4OTc5MSwtMTE3Mzk1ODc1MCwtNz
+E4MTY3NCwtNDY3MDc4OTE1XX0=
 -->
