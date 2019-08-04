@@ -6,4 +6,4 @@ defaults:
       locale: "en" # To sort by locale. You could also sort by path.
       type: "posts"
     values:
-      permalink: :categories/:year/:month/:title/
+      permalink: :categories/:year/:month/:day/:title/
