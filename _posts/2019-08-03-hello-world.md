@@ -57,9 +57,9 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 
 See You Next Week!  
 -{{ page.author }}, Project Manager  
--[[ page.date ]]
+-{{ page.date }}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTgyNjQzNCwtMTM2MTIxMDQ4OSw4OT
+eyJoaXN0b3J5IjpbLTg1Nzc5NTA3MCwtMTM2MTIxMDQ4OSw4OT
 IyMTU3MDksMjA0MDU2Nzk3MSwtNzYyNTg5MTkzLDExNjI4MjM3
 MDMsLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNTEyMDM4LDgzND
 c5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEzMiwtMTMzNzQ3
