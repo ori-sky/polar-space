@@ -59,8 +59,11 @@ body {
 
 .content-box > h1 {
 	text-align: center;
-	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 	font-variant: small-caps;
+}
+
+.content-title {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
 .content-box > section > h2 {
@@ -76,18 +79,17 @@ body {
 	margin-bottom: 1.5em;
 }
 
-.blog-preview > h3 {
+.content-title > h3 {
 	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.12rem;
 }
 
-.blog-preview > h4 {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+.content-title > h4 {
 	text-align: right;
 	font-size: 80%;
 	color: rgba(0, 0, 0, 0.75);
 	padding-bottom: 8px;
+	margin-top: 0.12rem;
 	margin-bottom: 4px;
 }
 
