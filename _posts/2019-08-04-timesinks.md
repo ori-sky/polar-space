@@ -13,7 +13,10 @@ Why did we start? We felt that now was the time to start a development blog, and
 *Probably not.*
 
 **Why couldn't it have been avoided?**  
-Well, we'd eventually need a development blog to keep players up to date on the development of the game, and to muse or share ideas and thoughts (like this one).
+Well, we'd eventually need a development blog to keep players up to date on the development of the game, and to muse or share ideas and thoughts (like this one).  
+So, ultimately, the question is less "Can I avoid Timesinks?" and more "When should I allocate time for this Timesink?"
+
+-{{ page.author }}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcyNjU5NjldfQ==
+eyJoaXN0b3J5IjpbLTYxNjMzODY2Nl19
 -->
