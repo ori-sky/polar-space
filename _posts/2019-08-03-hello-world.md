@@ -57,12 +57,12 @@ Fleshing out the features without encountering the dreaded *feature creep* and n
 
 See You Next Week!  
 -{{ page.author }}, Project Manager  
--{{ page.date }}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzc5NTA3MCwtMTM2MTIxMDQ4OSw4OT
-IyMTU3MDksMjA0MDU2Nzk3MSwtNzYyNTg5MTkzLDExNjI4MjM3
-MDMsLTEyMjEyMjAwMCw2OTkwMzUzMDQsNzkxNTEyMDM4LDgzND
-c5NTI3MywtMTYwNzI2MDEyOSwtMTE1MjE2NDEzMiwtMTMzNzQ3
-NTgxMiwtMTEyODAzMTc1MCwtMTA3Mjg0MjQ0MCwtMjAzMzczMj
-E3OCwyMTI5MDE0NDE0LDMxODY4NTI5OF19
+eyJoaXN0b3J5IjpbMzI4MDAzNzA2LC04NTc3OTUwNzAsLTEzNj
+EyMTA0ODksODkyMjE1NzA5LDIwNDA1Njc5NzEsLTc2MjU4OTE5
+MywxMTYyODIzNzAzLC0xMjIxMjIwMDAsNjk5MDM1MzA0LDc5MT
+UxMjAzOCw4MzQ3OTUyNzMsLTE2MDcyNjAxMjksLTExNTIxNjQx
+MzIsLTEzMzc0NzU4MTIsLTExMjgwMzE3NTAsLTEwNzI4NDI0ND
+AsLTIwMzM3MzIxNzgsMjEyOTAxNDQxNCwzMTg2ODUyOThdfQ==
+
 -->
