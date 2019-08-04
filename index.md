@@ -28,10 +28,11 @@ Once we're happy with it though, we'll start releasing the tech demos here!
 We only have a vague idea of what we are doing, so this website is as experimental as our game code! <br>
 
 ### Ok, I'm interested. How do I follow your progress?
-There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with posts by members of the team.  
+There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with [posts by members of the team](/polar-space/blog/).  
 The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQ1NzcwMywtNTgyMTcwNDQ4LDU1NT
-Y1ODg5NSwtNjAyNjEyNzA3LC0xOTYwMjcyMzE2LC0xMjAyODYx
-NTA3LC0yNDUzMjI5NDQsNDMxMjgxMDAyXX0=
+eyJoaXN0b3J5IjpbLTIxMjI1ODkzNDQsLTQ2NDQ1NzcwMywtNT
+gyMTcwNDQ4LDU1NTY1ODg5NSwtNjAyNjEyNzA3LC0xOTYwMjcy
+MzE2LC0xMjAyODYxNTA3LC0yNDUzMjI5NDQsNDMxMjgxMDAyXX
+0=
 -->
