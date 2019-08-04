@@ -9,7 +9,7 @@ layout: blog
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
 				<h3>{{ post.title }}</h3>
-				<h4>by {{ post.author }} in {{ post.categories }} on {{ post.date }}</h4>
+				<h4>by {{ post.author }}, on {{ post.date }}</h4>
 				<section>
 					{{ post.description }}
 				</section>
