@@ -73,6 +73,12 @@ And now let's see the state data.
 | Angular Acceleration         | euler  |   3 x 4 = 12 |
 | __Total__                    |        |      __108__ |
 
+This data is sufficient to fully represent the current state of a player ship, as it encapsulates all variables representing their position and orientation as well as how those values morph over time. As such, the integrator system would integrate these values in between network frames, providing smooth movement for remote players. To avoid jitter resulting from a lack of time synchronization, we would interpolate towards the new position and orientation rather than directly set them.
+
+The problem arises when you consider how much bandwidth this kind of protocol would require. Including the 16-byte IP header and the 4-byte UDP header, our total packet size adds up to __137__ bytes. This structure also does not include any sort of unique identifier specifying which local object's state should be updated. Assuming we used a 2-byte integer to represent that unique ID, we're now up to __139__ bytes.
+
+Amplifying this up to hundreds of movable and rotatable objects like ships, asteroids, energy weapons fire, missiles, etc, could bring our total data per network frame up to, say, 500 x 139 = __67.87 KiB__. When we take into account how many network frames we're sending per second (10), that's __678.71__ KiB/s. And that doesn't even include _anything_ else we would need to send aside from state.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzI4MDUwMl19
 -->
