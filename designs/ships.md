@@ -15,10 +15,12 @@ Secondary weapons are usually pylon mounted missiles or rockets.
 Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional abilities.
 Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.
 
-### Ship Power
+### Ship Power Systems
+*SCF* Ship power systems are split into two components, the *Central Reactor Core* and a *Rapid Discharge/Recharge Capacitor Bank*.
+#### Reactor
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszMzg1Mzg3MjcsLTEwMzQwMjU5
+BnZm1cbiIsImhpc3RvcnkiOlszNzQ0Mzc4ODksLTEwMzQwMjU5
 MTddfQ==
 -->
