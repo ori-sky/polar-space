@@ -23,9 +23,9 @@ It's main purpose is to recharge the *RD/R Capacitors* aboard a ship.
 Connecting a reactor directly to ship systems is... ill advised.
 ### RD/R Capacitor Bank
 The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requirements.  
-Systems that do not have self-contained power sources will tap from it to function, such as 
+Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and Boosters [^1].
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjU1NTc0MzQ4LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOls5MTcxODQ1MTQsLTEwMzQwMjU5
+MTddfQ==
 -->
