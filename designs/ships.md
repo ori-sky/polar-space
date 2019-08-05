@@ -2,14 +2,16 @@
 title: The Ships of "Spacegame"
 ---
 # Basic ship concepts
-All *Sol Central Federation* (SCF) based ships follow similar component design concepts. Although manufacturers can implement things in different ways.
+All *Sol Central Federation* (SCF) based ships follow similar component design concepts.  
+Although some manufacturers have been known to deviate from standard designs.
 
 ## Ship Power Systems
 *SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).
 ### Reactor
 Each ship manufacturer has their own preferred reactor design and fuelling method.  
 It's main purpose is to recharge the *RD/R Capacitors* aboard a ship.  
-Connecting a reactor directly to ship systems is... ill advised.
+Connecting a reactor directly to ship systems is... ill advised.  
+Reactor overloads will result in the **(catastrophic destruction of a ship and cause damage to nearby ships.
 ### RD/R Capacitor Bank
 The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requirements.  
 Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and System Boosters.
@@ -37,6 +39,6 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstOTQwODQwNjQ1LC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlstNzMyNjM2Nzk0LC0xMDM0MDI1
 OTE3XX0=
 -->
