@@ -72,6 +72,7 @@ And now let's see the state data.
 | Angular Velocity Lerp Factor | float  |            4 |
 | Angular Acceleration         | euler  |   3 x 4 = 12 |
 | __Total__                    |        |      __108__ |
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzI4MDUwMl19
 -->
