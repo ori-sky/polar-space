@@ -83,11 +83,11 @@ Armour | [CLASSIFIED]DU
 Hull | [CLASSIFIED]DU
 After the *Corporation Wars* came to their slow, stuttering end, the *Starlight Research and Development Consortium* began work on the “Arena Combat Vessel” or ACV.  
 A powerful and versatile ship with near unlimited expandability built to operate in Arena Combat scenarios.  
-The Mark 9 is their latest and greatest creation with the ability to pick up and equip any compatible weapon, utility or deployable. So powerful is this ship, the *SCF* passed a universal decree the instant the first prototype was conceived. All ACVs will be restricted for use inside designated “Arena Zones”. Any pilot attempting to take their ACV out of an arena would trigger a built in <Doomsday> class bomb, destroying the ship.
+The Mark 9 is their latest and greatest creation with the ability to pick up and equip any compatible weapon, utility or deployable. So powerful is this ship, the *SCF* passed a universal decree the instant the first prototype was conceived. All ACVs will be restricted for use inside designated “Arena Zones”. Any pilot attempting to take their ACV out of an arena would trigger a *Reactor Overload*, destroying the ship.
 
-The ACV IX is only available in “Classic Arena” mode and starts with <The Vulkan> and <PPC> weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
+The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzM2MjQ5ODE0LDExOTMwMTI3
-NjQsLTEwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOls0ODQxNTkyOTQsMTE5MzAxMjc2
+NCwtMTAzNDAyNTkxN119
 -->
