@@ -43,7 +43,8 @@ This is drawn away by a *heat pump* which channels the heat away from the weapon
 It can only draw away a certain amount of heat over time.  
 If an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
 There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
-Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of a ship.**
+Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of a ship.**  
+Heat Dissipation and Generation is measured in *Heat Units per Second* (HU/s)
 
 ## Defensive Systems
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
@@ -82,7 +83,7 @@ Manufacturer| Starlight R&D | Classification | Special
 **Utility Slots** | [CLASSIFIED] | **Armour** | [CLASSIFIED]DU
 **Item Slots** | [CLASSIFIED] | **Hull** | [CLASSIFIED]DU
 **Manoeuvrability** | V/High | **Top Speed** | [CLASSIFIED]m/s
-**Heat Dissipation Rate** | [CLASSIFIED]HU/s | 
+**Heat Dissipation Rate** | [CLASSIFIED]HU/s | **IFD Overdrive Power** | High
 
 After the *Corporation Wars* came to their slow, stuttering end, the *Starlight Research and Development Consortium* began work on the “Arena Combat Vessel” or ACV.  
 A powerful and versatile ship with near unlimited expandability built to operate in Arena Combat scenarios.  
@@ -91,7 +92,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA5ODcwNDUxOSwxNjA1MzA3
-MjIxLC00NzI5NTkzNjQsMTk3Nzc2MjA2MiwxMTkzMDEyNzY0LC
-0xMDM0MDI1OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsyMDE5NzA1OTQ0LDE2MDUzMDcy
+MjEsLTQ3Mjk1OTM2NCwxOTc3NzYyMDYyLDExOTMwMTI3NjQsLT
+EwMzQwMjU5MTddfQ==
 -->
