@@ -4,8 +4,8 @@ layout: blog
 ---
 {% assign posts = site.posts | where_exp: "post", "post.category != 'Draft'" %}
 {::nomarkdown}
-{% for post in site.posts %}
-	<div class="large-4 medium-6 small-12 cellolumns">
+{% for post in posts %}
+	<div class="large-4 medium-6 small-12 cell">
 		<a href="{{ post.url | remove_first:'/' }}">
 			<div class="content-box blog-preview">
 				<div class="content-title">
