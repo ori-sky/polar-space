@@ -51,9 +51,11 @@ Shields recharge on their own over time.
 Shields can be reinforced or rapidly recharged with power from a ships capacitor, however this uses a lot of power very quickly.
 ### Armour Plating
 The second line of defence is the *Ablative Hardened Armour Plating* (AHAB or Armour, usually the latter). It is pretty much what it says on the tin, a reinforced skin of armour plating that covers the hull of a ship.  
-It generally dissipates energy weapons with ease, but can have chunks knocked out of it by kinetic weapons, or holes blown in it with explosive
+It generally dissipates energy weapons with ease, but can have chunks knocked out of it by kinetic weapons, or holes blown in it with explosives.
+### The Ships Hull
+The vulnerable flesh beneath all the shielding and armour plate. Whilst energy weapons still do reduced damage to this layer, kinetic weapons can do significant damage, with a well placed explosive shot destroying some smaller ships in one shot
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgwOTcwMzQ5LC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlstOTQxMTAxMTE4LC0xMDM0MDI1
 OTE3XX0=
 -->
