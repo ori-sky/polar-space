@@ -66,10 +66,12 @@ Ships are generally split into different Classifications (or "Classes") that rou
 
 # Ships
 ## Arena Combat Vessel Mark IX
-Manufacturer | Starlight Research and Development
-
+Manufacturer | Starlight R&D
+------------|------------
+Classification | Special
+Classification |Special
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4ODM4NTY2NzEsMTE5MzAxMjc2
-NCwtMTAzNDAyNTkxN119
+BnZm1cbiIsImhpc3RvcnkiOlsxMzQxNjgxOTc2LDExOTMwMTI3
+NjQsLTEwMzQwMjU5MTddfQ==
 -->
