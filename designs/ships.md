@@ -12,9 +12,13 @@ Usually directed out the back of the ship through adjustable exhaust nozzles wit
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
 Primary weapons are usually forward firing energy or kinetic weapons.
 Secondary weapons are usually pylon mounted missiles or rockets.
-Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional 
+Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional abilities.
+Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.
+
+### Ship Power
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTE0NTcyNzE2LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlszMzg1Mzg3MjcsLTEwMzQwMjU5
+MTddfQ==
 -->
