@@ -79,6 +79,24 @@ The problem arises when you consider how much bandwidth this kind of protocol wo
 
 Amplifying this up to hundreds of movable and rotatable objects like ships, asteroids, energy weapons fire, missiles, etc, could bring our total data per network frame up to, say, 500 x 139 = __67.87 KiB__. When we take into account how many network frames we're sending per second (10), that's __678.71__ KiB/s. And that doesn't even include _anything_ else we would need to send aside from state. Quite simply, that's an unacceptable bandwidth requirement for us.
 
+# Action Protocol
+
+Rather than sending new states every network frame, why couldn't we just send __actions__ to perform?
+
+Actually, the engine is already designed around the concept of actions. An action is just exactly what it sounds like—something that represents a particular action to be performed. For example, players expose the following actions that can be triggered elsewhere in the engine or the game.
+
+| Action        | Type             |
+| ------------- | ---------------- |
+| Move forward  | digital (on/off) |
+| Move backward | digital (on/off) | 
+| Move left     | digital (on/off) |
+| Move right    | digital (on/off) |
+| Move up       | digital (on/off) |
+| Move down     | digital (on/off) |
+| Yaw           | analog (decimal) |
+| Pitch         | analog (decimal) |
+| Roll          | analog (decimal) |
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzI4MDUwMl19
 -->
