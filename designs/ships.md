@@ -71,12 +71,12 @@ Many ships have been developed and constructed in *The Sol Central Federation* o
 
 Manufacturer| Starlight R&D | Classification | Special
 -|-|-|-
-Classification | Special | Capacitor | [CLASSIFIED]PU
-Restrictions|Arena Use Only | Reactor Maximum Output | [CLASSIFIED]PU/s
-Primary Weapon Slots | Unlimited | Shield | [CLASSIFIED]DU
-Secondary Weapon Slots | Unlimited | Shield Recharge Rate | [CLASSIFIED]DU/s
-Utility Slots | [CLASSIFIED] | Armour | [CLASSIFIED]DU
-Item Slots | [CLASSIFIED] | Hull | [CLASSIFIED]DU
+**Classification** | Special | **Capacitor** | [CLASSIFIED]PU
+**Restrictions** | Arena Use Only | **Reactor Maximum Output** | [CLASSIFIED]PU/s
+**Primary Weapon Slots** | Unlimited | **Shield** | [CLASSIFIED]DU
+**Secondary Weapon Slots** | Unlimited | **Shield Recharge Rate** | [CLASSIFIED]DU/s
+**Utility Slots** | [CLASSIFIED] | **Armour** | [CLASSIFIED]DU
+**Item Slots** | [CLASSIFIED] | **Hull** | [CLASSIFIED]DU
 
 After the *Corporation Wars* came to their slow, stuttering end, the *Starlight Research and Development Consortium* began work on the “Arena Combat Vessel” or ACV.  
 A powerful and versatile ship with near unlimited expandability built to operate in Arena Combat scenarios.  
@@ -85,7 +85,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTk3NTQ3NjU3OSwtNDcyOTU5
-MzY0LDE5Nzc3NjIwNjIsMTE5MzAxMjc2NCwtMTAzNDAyNTkxN1
-19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjA1MzA3MjIxLC00NzI5NTkz
+NjQsMTk3Nzc2MjA2MiwxMTkzMDEyNzY0LC0xMDM0MDI1OTE3XX
+0=
 -->
