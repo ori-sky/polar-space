@@ -20,7 +20,7 @@ If a capacitor overload is detected, the system will shut down and reset for saf
 ## Propulsion
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
-The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.
+The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor though and will drain power rapidly.  
 
 ## Inertial Damper System
@@ -33,7 +33,7 @@ Primary weapons are usually forward firing energy or kinetic weapons.
 Secondary weapons are usually pylon mounted missiles or rockets.  
 Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional abilities.  
 Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.  
-Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array, however.
+Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array to increase damage output.
 ### Heat Dissipation
 Their power may be endless, but most Primary Weapons (some Secondary, and some Utilities) generate large amounts of heat if used for long periods of time.  
 This is drawn away by a *heat pump* which channels the heat away from the weapons array. It can only draw away a certain amount of heat over time, if an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
@@ -52,6 +52,6 @@ Shields can be reinforced or rapidly recharged with power from a ships capacitor
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjM4MTcyNzIyLC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlstMjA5MDMzODE5LC0xMDM0MDI1
 OTE3XX0=
 -->
