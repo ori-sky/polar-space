@@ -74,9 +74,12 @@ Restrictions|Arena Use Only
 Primary Weapon Slots | Unlimited
 Secondary Weapon Slots | Unlimited
 Utility Slots | [CLASSIFIED]
-Item Slots | [
+Item Slots | [CLASSIFIED]
+Capacitor | [CLASSIFIED]PU
+Reactor Maximum Output | [CLASSIFIED]PU/s
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTc0Mzk4Mzc3LDExOTMwMTI3
-NjQsLTEwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNzgwOTEzOTAsMTE5MzAxMjc2
+NCwtMTAzNDAyNTkxN119
 -->
