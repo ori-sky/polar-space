@@ -35,7 +35,8 @@ Primary weapons are usually forward firing energy or kinetic weapons.
 Secondary weapons are usually pylon mounted missiles or rockets.  
 Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional abilities.  
 Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.  
-Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array to increase damage output.
+Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array to increase damage output.  
+Damage output is measured in *Damage Units* (DU).
 ### Heat Dissipation
 Their power may be endless, but most Primary Weapons (some Secondary, and some Utilities) generate large amounts of heat if used for long periods of time.  
 This is drawn away by a *heat pump* which channels the heat away from the weapons array.  
@@ -46,7 +47,8 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 
 ## Defensive Systems
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
-Each is susceptible to different kinds of damage and are repaired in different ways.
+Each is susceptible to different kinds of damage and are repaired in different ways.  
+Damage received, like damage dealt is measured in *Damage Units* (DU)
 ### Shields
 The *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
 A projected energy field around a ship deflects incoming projectiles and explosives with relative ease.  
@@ -89,7 +91,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTYwODI3NDY1OSwxNjA1MzA3
+BnZm1cbiIsImhpc3RvcnkiOlstMjA5ODcwNDUxOSwxNjA1MzA3
 MjIxLC00NzI5NTkzNjQsMTk3Nzc2MjA2MiwxMTkzMDEyNzY0LC
 0xMDM0MDI1OTE3XX0=
 -->
