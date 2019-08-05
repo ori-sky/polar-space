@@ -6,10 +6,11 @@ All *Sol Central Federation* (SCF) based ships follow similar component design c
 Although some manufacturers have been known to deviate from standard designs.
 
 ## Ship Power Systems
-*SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).
+*SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).  
+Ship 
 ### Reactor
 Each ship manufacturer has their own preferred reactor design and fuelling method.  
-It's main purpose is to recharge the *RD/R Capacitors* aboard a ship.  
+A reactors main purpose is to recharge the *RD/R Capacitors* aboard a ship.  
 Connecting a reactor directly to ship systems is... ill advised.  
 Reactor overloads will result in the **catastrophic destruction** of a ship and cause damage to nearby ships.
 ### RD/R Capacitor Bank
@@ -85,7 +86,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjA1MzA3MjIxLC00NzI5NTkz
-NjQsMTk3Nzc2MjA2MiwxMTkzMDEyNzY0LC0xMDM0MDI1OTE3XX
-0=
+BnZm1cbiIsImhpc3RvcnkiOls4MTkzMjcxMTgsMTYwNTMwNzIy
+MSwtNDcyOTU5MzY0LDE5Nzc3NjIwNjIsMTE5MzAxMjc2NCwtMT
+AzNDAyNTkxN119
 -->
