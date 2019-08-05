@@ -77,9 +77,12 @@ Utility Slots | [CLASSIFIED]
 Item Slots | [CLASSIFIED]
 Capacitor | [CLASSIFIED]PU
 Reactor Maximum Output | [CLASSIFIED]PU/s
-
+Shield | [CLASSIFIED]DU
+Shield Recharge Rate | [CLASSIFIED]DU/s
+Armour | [CLASSIFIED]DU
+Hull | [CLASSI
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNzgwOTEzOTAsMTE5MzAxMjc2
+BnZm1cbiIsImhpc3RvcnkiOls2Njc5MjcxMTAsMTE5MzAxMjc2
 NCwtMTAzNDAyNTkxN119
 -->
