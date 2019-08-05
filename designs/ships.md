@@ -40,10 +40,13 @@ This is drawn away by a *heat pump* which channels the heat away from the weapon
 There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
 Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of your ship.**
 
+## Defenses
+*SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
+Each is susceptible to different kinds of damage and are repaired in different ways.
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTI2MTI4Njc2LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTI0Njg3MDc5MiwtMTAzNDAy
+NTkxN119
 -->
