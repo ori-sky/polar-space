@@ -20,7 +20,8 @@ Some utilities have been manufactured that allow pilots to route excess ship cap
 ### Heat Dissipation
 Their power may be endless, but most Primary Weapons (some Secondary, and some Utilities) generate large amounts of heat if used for long periods of time.  
 This is drawn away by a *heat pump* which channels the heat away from the weapons array. It can only draw away a certain amount of heat over time, if an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
-There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw 
+There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
+Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of your ship.**
 
 ## Ship Power Systems
 *SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).
@@ -33,6 +34,6 @@ The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requi
 Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and Boosters.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNDA0NTg3MDc0LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsyMTI2ODY5NDIsLTEwMzQwMjU5
+MTddfQ==
 -->
