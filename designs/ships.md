@@ -62,9 +62,14 @@ A ships hull can be repaired in flight, but the procedure requires specially pro
 # Ship Classes
 Ships are generally split into different Classifications (or "Classes") that roughly describe their role.
 ## Special Classification
-"Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation. They are usually incredibly powerful
+"Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation. They are usually incredibly powerful, or particularly niche.
+
+# Ships
+## Arena Combat Vessel Mark IX
+Manufacturer | Starlight Research and Development
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjEyMzIzMDM0LDExOTMwMTI3
-NjQsLTEwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOls4ODM4NTY2NzEsMTE5MzAxMjc2
+NCwtMTAzNDAyNTkxN119
 -->
