@@ -7,7 +7,7 @@ Although some manufacturers have been known to deviate from standard designs.
 
 ## Ship Power Systems
 *SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).  
-Ship 
+Ship Energy is measured in *Power Units* (PU).
 ### Reactor
 Each ship manufacturer has their own preferred reactor design and fuelling method.  
 A reactors main purpose is to recharge the *RD/R Capacitors* aboard a ship.  
@@ -23,6 +23,7 @@ All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propul
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor and will drain power rapidly.  
+Ship speed is measured in *Meters per Second* (m/s).
 
 ## Inertial Damper System
 Inertial dampers help pilots keep control of their ship by ensuring that the ship reacts predictably to pilot inputs.  
@@ -78,6 +79,7 @@ Manufacturer| Starlight R&D | Classification | Special
 **Secondary Weapon Slots** | Unlimited | **Shield Recharge Rate** | [CLASSIFIED]DU/s
 **Utility Slots** | [CLASSIFIED] | **Armour** | [CLASSIFIED]DU
 **Item Slots** | [CLASSIFIED] | **Hull** | [CLASSIFIED]DU
+**Manouverability** 
 
 After the *Corporation Wars* came to their slow, stuttering end, the *Starlight Research and Development Consortium* began work on the “Arena Combat Vessel” or ACV.  
 A powerful and versatile ship with near unlimited expandability built to operate in Arena Combat scenarios.  
@@ -86,7 +88,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4MTkzMjcxMTgsMTYwNTMwNzIy
-MSwtNDcyOTU5MzY0LDE5Nzc3NjIwNjIsMTE5MzAxMjc2NCwtMT
-AzNDAyNTkxN119
+BnZm1cbiIsImhpc3RvcnkiOlsxMTA3MTU1NTczLDE2MDUzMDcy
+MjEsLTQ3Mjk1OTM2NCwxOTc3NzYyMDYyLDExOTMwMTI3NjQsLT
+EwMzQwMjU5MTddfQ==
 -->
