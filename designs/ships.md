@@ -23,8 +23,9 @@ Usually directed out the back of the ship through adjustable exhaust nozzles wit
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor though and will drain power rapidly.  
 
-## Inertial Damper Systems
-Inertial dampers help 
+## Inertial Damper System
+Inertial dampers help pilots keep control of their ship by ensuring that the ship reacts predictably to pilot inputs.  
+Some pilots like to disable the IDS to "drift" their ship or perform other acrobatics whilst flying. This is not recommended as it severly reduces the manouver
 
 ## Weapons Array
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
@@ -43,6 +44,6 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxODQ4ODkyODMyLC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOls0MzM0NTg1NDEsLTEwMzQwMjU5
+MTddfQ==
 -->
