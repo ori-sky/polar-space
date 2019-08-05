@@ -25,7 +25,7 @@ However most ships are also fitted with an *IFD Overdrive System* that can tap p
 
 ## Inertial Damper System
 Inertial dampers help pilots keep control of their ship by ensuring that the ship reacts predictably to pilot inputs.  
-Some pilots like to disable the IDS to "drift" their ship or perform other acrobatics whilst flying. This is not recommended as it severly reduces the manouver
+Some pilots like to disable the IDS to "drift" their ship or perform other acrobatics whilst flying. This is not recommended as it severely reduces the manoeuvrability of a ship.
 
 ## Weapons Array
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
@@ -44,6 +44,6 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls0MzM0NTg1NDEsLTEwMzQwMjU5
-MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNTI2MTI4Njc2LC0xMDM0MDI1
+OTE3XX0=
 -->
