@@ -15,3 +15,21 @@ At the core of the engine, we have a sophisticated entity-component-system archi
 The most important detail here is how we actually represent the data in components like __position__ and __orientation__. A naïve implementation might use a 3-component vector for the position and a quaternion for the orientation. However, our approach was to implement these as special kinds of values we call __integrables__. At its simplest level, an integrable is just a wrapper around a value, allowing us to give it _another_ integrable to represent its rate of change. That rate of change can be given _another_ integrable to represent _its_ rate of change, and so on, and so on.
 
 Putting this all together, we have an integrator system that passes over every integrable on every component on every object, integrating its value at a fixed timestep. Currently we use Newton's second law of linear motion for integration, accurately integrating the position/orientation/etc up to its second-order derivative (acceleration in the case of position). We run the integrator at a fixed timestep to maintain consistency across frames of different time chunks. Any left-over time is carried over to the next frame and also used by other systems to quickly calculate an approximate value at the current time. For example, currently the integrator runs at 50 fps and hence, on a 144 Hz monitor (assuming no frame drops), would only tick once for every 2-3 frames. However, all motion would appear smooth due to the approximation based on the left-over time.
+
+# Basic Networking
+
+I had a decision to make, before writing even a single line of code. TCP or UDP? Let's go over each of them.
+
+## TCP
+
+* Has a concept of connections. You can open a connection and the other side will know your packets are coming from you.
+* Reliable. If you send a packet, you know it'll eventually get there.
+* Ordered. If you send a bunch of packets, you know they'll arrive in the right order.
+* Flow control. You won't send packets too fast for the connection to handle.
+
+## UDP
+
+* Has no concept of connections. You have to implement handshakes and keep track of connection IDs or similar.
+* Unreliable. If you send a packet, it might never arrive. The best part about UDP jokes is that I don't care if you get it or not.
+* Unordered. Packets might arrive out of order, not at all, or even multiple times.
+* No flow control. If you send packets too fast, your connection might not be able to handle them and just drop them.
