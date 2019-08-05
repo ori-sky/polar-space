@@ -54,9 +54,10 @@ The second line of defence is the *Ablative Hardened Armour Plating* (AHAB or Ar
 It generally dissipates energy weapons with ease, but can have chunks knocked out of it by kinetic weapons, or holes blown in it with explosives.  
 Armour plating requires specially programmed nanobots to repair it whilst in flight.
 ### The Ships Hull
-The vulnerable flesh beneath all the shielding and armour plate. Whilst energy weapons still do reduced damage to this layer, kinetic weapons can do significant damage, with a well placed explosive shot destroying some smaller ships in one shot
+The vulnerable flesh beneath all the shielding and armour plate. Whilst energy weapons still do reduced damage to this layer, kinetic weapons can do significant damage, with a well placed explosive shot destroying some smaller ships in one shot.  
+A ships hull can be repaired in flight, but the procedure requires specially programmed nanobots to be used.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA2NjYzNzAwNiwtMTAzNDAy
-NTkxN119
+BnZm1cbiIsImhpc3RvcnkiOls5ODcwMzc0MjksLTEwMzQwMjU5
+MTddfQ==
 -->
