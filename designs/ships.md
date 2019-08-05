@@ -20,7 +20,7 @@ If a capacitor overload is detected, the system will shut down and reset for saf
 
 ## Propulsion
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
-Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
+Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor and will drain power rapidly.  
 Ship speed is measured in *Meters per Second* (m/s).
@@ -92,7 +92,7 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDE5NzA1OTQ0LDE2MDUzMDcy
-MjEsLTQ3Mjk1OTM2NCwxOTc3NzYyMDYyLDExOTMwMTI3NjQsLT
-EwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNTE1NTY3NjU0LDIwMTk3MDU5
+NDQsMTYwNTMwNzIyMSwtNDcyOTU5MzY0LDE5Nzc3NjIwNjIsMT
+E5MzAxMjc2NCwtMTAzNDAyNTkxN119
 -->
