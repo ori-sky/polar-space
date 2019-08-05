@@ -62,7 +62,8 @@ A ships hull can be repaired in flight, but the procedure requires specially pro
 # Ship Classes
 Ships are generally split into different Classifications (or "Classes") that roughly describe their role.
 ## Special Classification
-"Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation. They are usually incredibly powerful, or particularly niche.
+"Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation.  
+They are usually incredibly powerful, or particularly niche.
 
 # Ships
 Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
@@ -88,6 +89,6 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls0ODQxNTkyOTQsMTE5MzAxMjc2
-NCwtMTAzNDAyNTkxN119
+BnZm1cbiIsImhpc3RvcnkiOlsxODcyMzM1MzU2LDExOTMwMTI3
+NjQsLTEwMzQwMjU5MTddfQ==
 -->
