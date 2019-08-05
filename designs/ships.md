@@ -58,8 +58,11 @@ Armour plating requires specially programmed nanobots to repair it whilst in fli
 ### The Ships Hull
 The vulnerable flesh beneath all the shielding and armour plate. Whilst energy weapons still do reduced damage to this layer, kinetic weapons can do significant damage, with a well placed explosive shot destroying some smaller ships in one shot.  
 A ships hull can be repaired in flight, but the procedure requires specially programmed nanobots to be used.
+
+# Ship Classes
+Ships are generally split into different Classifications (or "Classes") that roughly describe their role
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDM4NDgyMzM5LC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlsxMTkzMDEyNzY0LC0xMDM0MDI1
 OTE3XX0=
 -->
