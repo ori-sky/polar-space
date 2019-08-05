@@ -65,13 +65,14 @@ Ships are generally split into different Classifications (or "Classes") that rou
 "Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation. They are usually incredibly powerful, or particularly niche.
 
 # Ships
+Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
 ## Arena Combat Vessel Mark IX
-Manufacturer | Starlight R&D
+Manufactur| y
 ------------|------------
 Classification | Special
 Classification |Special
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMzQxNjgxOTc2LDExOTMwMTI3
-NjQsLTEwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlszNzU1OTE4MjYsMTE5MzAxMjc2
+NCwtMTAzNDAyNTkxN119
 -->
