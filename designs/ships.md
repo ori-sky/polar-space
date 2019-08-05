@@ -36,9 +36,11 @@ Weapons usually have internal power supplies or ammo reserves. If they didn't th
 Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array to increase damage output.
 ### Heat Dissipation
 Their power may be endless, but most Primary Weapons (some Secondary, and some Utilities) generate large amounts of heat if used for long periods of time.  
-This is drawn away by a *heat pump* which channels the heat away from the weapons array. It can only draw away a certain amount of heat over time, if an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
+This is drawn away by a *heat pump* which channels the heat away from the weapons array.  
+It can only draw away a certain amount of heat over time.  
+If an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
 There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
-Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of your ship.**
+Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of a ship.**
 
 ## Defensive Systems
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
@@ -58,6 +60,6 @@ The vulnerable flesh beneath all the shielding and armour plate. Whilst energy w
 A ships hull can be repaired in flight, but the procedure requires specially programmed nanobots to be used.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5ODcwMzc0MjksLTEwMzQwMjU5
-MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsyMDM4NDgyMzM5LC0xMDM0MDI1
+OTE3XX0=
 -->
