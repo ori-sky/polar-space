@@ -15,7 +15,10 @@ However most ships are also fitted with an *IFD Overdrive System* that can tap p
 Primary weapons are usually forward firing energy or kinetic weapons.  
 Secondary weapons are usually pylon mounted missiles or rockets.  
 Some hulls can fit Utility weapons in either Primary or Secondary slots sacrificing firepower for additional abilities.  
-Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.
+Weapons usually have internal power supplies or ammo reserves. If they didn't they would quickly overload a ship's power reactor.  
+Some utilities have been manufactured that allow pilots to route excess ship capacitor power into the weapons array, however.
+### Heat Dissipation
+Their power may be endless, but most Primary Weapons (some Secondary, and some Utilities
 
 ## Ship Power Systems
 *SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).
@@ -25,9 +28,9 @@ It's main purpose is to recharge the *RD/R Capacitors* aboard a ship.
 Connecting a reactor directly to ship systems is... ill advised.
 ### RD/R Capacitor Bank
 The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requirements.  
-Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and 
+Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and Boosters.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5NDkwOTEzNzQsLTEwMzQwMjU5
-MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNTA1OTg0Njc1LC0xMDM0MDI1
+OTE3XX0=
 -->
