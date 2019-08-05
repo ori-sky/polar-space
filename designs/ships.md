@@ -21,7 +21,7 @@ If a capacitor overload is detected, the system will shut down and reset for saf
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
-However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor though and will drain power rapidly.  
+However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor and will drain power rapidly.  
 
 ## Inertial Damper System
 Inertial dampers help pilots keep control of their ship by ensuring that the ship reacts predictably to pilot inputs.  
@@ -44,14 +44,15 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
 Each is susceptible to different kinds of damage and are repaired in different ways.
 ### Shields
-The *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
+The first line of defence is the *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
 A projected energy field around a ship deflects incoming projectiles and explosives with relative ease.  
 What is new is the increasing prevalence of energy weaponry being fitted to ships. It may shrug of shards of titanium being flung at it and explosive shock waves, a hard blast with a directed energy weapon rapidly overloads the shield systems internal reactor.  
 Shields recharge on their own over time.  
 Shields can be reinforced or rapidly recharged with power from a ships capacitor, however this uses a lot of power very quickly.
-
+### Armour Plating
+The second line of defence is 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA5MDMzODE5LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlsyMTYwOTY3MTQsLTEwMzQwMjU5
+MTddfQ==
 -->
