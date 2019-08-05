@@ -50,9 +50,9 @@ What is new is the increasing prevalence of energy weaponry being fitted to ship
 Shields recharge on their own over time.  
 Shields can be reinforced or rapidly recharged with power from a ships capacitor, however this uses a lot of power very quickly.
 ### Armour Plating
-The second line of defence is 
+The second line of defence is the *Ablative Hardened Armour Plating* (AHAB or Armour), 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTYwOTY3MTQsLTEwMzQwMjU5
-MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsyMTE0NTgzOSwtMTAzNDAyNTkx
+N119
 -->
