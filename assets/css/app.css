@@ -98,6 +98,11 @@ body {
 	font-weight: bold;
 }
 
+.content-box > section > h3 {
+	font-variant: small-caps;
+	font-size: 1.25rem;
+}
+
 .content-box > section img {
 	box-shadow: 0 0 2px rgba(0, 0, 0, 0.7);
 }
