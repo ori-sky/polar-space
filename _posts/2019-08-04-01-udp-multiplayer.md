@@ -16,7 +16,7 @@ If we want to render a cube, we grab a new object ID and map it with a __model__
 
 The most important detail here is how we actually represent the data in components like position and orientation. A na√Øve implementation might use a 3-component vector for the position and a quaternion for the orientation. However, our approach was to implement these as special kinds of values we call __integrables__. At its simplest level, an integrable is just a wrapper around a value, allowing us to give it _another_ integrable to represent its rate of change. That rate of change can be given _another_ integrable to represent _its_ rate of change, and so on, and so on.
 
-Putting this all together, we have an integrator system that passes over every integrable on every component on every object, integrating its value at a fixed timestep. Currently we use Newton's second law of linear motion for integration, accurately integrating the position/orientation/etc up to its second-order derivative (acceleration in the case of position).
+Putting this all together, we have an integrator system that passes over every integrable on every component on every object, integrating its value at a fixed timestep. Currently we use Newton's equation of linear motion for integration, accurately integrating the position/orientation/etc up to its second-order derivative (acceleration in the case of position).
 
 We run the integrator at a fixed timestep to maintain consistency across frames of different time chunks. Any left-over time is carried over to the next frame and also used by other systems to quickly calculate an approximate value at the current time. For example, currently the integrator runs at 50 fps and hence, on a 144 Hz monitor (assuming no frame drops), would only tick once for every 2-3 frames. However, all motion would appear smooth due to the approximation based on the left-over time.
 
@@ -45,3 +45,30 @@ In a real-time game, we don't actually need packet ordering at a protocol level‚
 The way we implement reliability in our model is by giving each packet a packet ID as well as a list of 32 single-bit acknowledgements for the previous 32 packets the other end sent. Because this is a real-time game, the client and server are going to be exchanging data many times per second, so we can take advantage of this by having them let each other know which of the last 32 packets they received. That way, those dropped packets can be resent if needed, out-of-order, with the correct packet ID.
 
 We also need to have a notion of connections in our protocol if we want to support more than one client/server at a time. For now, the client sends a `connection_request` command to the server along with a unique connection ID with which it will track the server. The server then sends back a `connection_accept` with the packet's connection ID field set to the same one the client just sent, along with _its own_ unique connection ID with which to track the client. The client and server then send these corresponding connection IDs in all further packet headers.
+
+# State Protocol
+
+The first protocol I designed for the game revolved around sending state updates every network tick (currently 10 ticks per second). Let's see the packet header first.
+
+| Field         | Size (bytes) |
+| ------------- | ------------:|
+| Connection ID |            4 |
+| Packet ID     |            1 |
+| ACKs          |            4 |
+| __Total__     |        __9__ |
+
+And now let's see the state data.
+
+| Field                        | Type   | Size (bytes) |
+| ---------------------------- | ------ | ------------:|
+| Position                     | point  |   3 x 4 = 12 |
+| Velocity                     | point  |   3 x 4 = 12 |
+| Velocity Lerp Target         | point  |   3 x 4 = 12 |
+| Velocity Lerp Factor         | float  |            4 |
+| Acceleration                 | point  |   3 x 4 = 12 |
+| Orientation                  | quat   |   4 x 4 = 16 |
+| Angular Velocity             | euler  |   3 x 4 = 12 |
+| Angular Velocity Lerp Target | euler  |   3 x 4 = 12 |
+| Angular Velocity Lerp Factor | float  |            4 |
+| Angular Acceleration         | euler  |   3 x 4 = 12 |
+| __Total__                    |        |      __108__ |
