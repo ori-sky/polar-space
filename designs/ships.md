@@ -7,7 +7,8 @@ All *Sol Central Federation* (SCF) based ships follow similar component design c
 ## Propulsion
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
-Ships are also fitted with an *IFD Overdrive System* that can tap power from the ship's main power reserves to increase thrust
+The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.
+However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor though and will drain power rapidly.  
 
 ## Weapons Array
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
@@ -27,6 +28,6 @@ The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requi
 Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNDM1NzQ2OTE1LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOls5NDkwOTEzNzQsLTEwMzQwMjU5
+MTddfQ==
 -->
