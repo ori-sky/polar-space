@@ -60,9 +60,11 @@ The vulnerable flesh beneath all the shielding and armour plate. Whilst energy w
 A ships hull can be repaired in flight, but the procedure requires specially programmed nanobots to be used.
 
 # Ship Classes
-Ships are generally split into different Classifications (or "Classes") that roughly describe their role
+Ships are generally split into different Classifications (or "Classes") that roughly describe their role.
+## Special Classification
+"Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation. They are usually incredibly powerful
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTkzMDEyNzY0LC0xMDM0MDI1
-OTE3XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstNjEyMzIzMDM0LDExOTMwMTI3
+NjQsLTEwMzQwMjU5MTddfQ==
 -->
