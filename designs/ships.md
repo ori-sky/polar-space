@@ -46,10 +46,10 @@ Each is susceptible to different kinds of damage and are repaired in different w
 ### Shields
 The *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
 A projected energy field around a ship deflects incoming projectiles and explosives with relative ease.  
-What is new
+What is new is the increasing prevalence of energy weaponry being fitted to ships. It may shrug of shards of titanium being flung at it and explosive shock waves, a hard blast with a directed energy weapon rapidly overloads the shield
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls3MDQ0ODE5NzEsLTEwMzQwMjU5
-MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNjQxODE4OTk0LC0xMDM0MDI1
+OTE3XX0=
 -->
