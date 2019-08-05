@@ -44,10 +44,10 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
 Each is susceptible to different kinds of damage and are repaired in different ways.
 ### Shields
-
+The *Kinetic Impact Shieldin
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTQ4Njg1Mjg3LC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlstMzcwNjE5NDM3LC0xMDM0MDI1
 OTE3XX0=
 -->
