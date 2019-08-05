@@ -107,6 +107,15 @@ body {
 	box-shadow: 0 0 2px rgba(0, 0, 0, 0.7);
 }
 
+.content-box table {
+	width: 50%;
+}
+
+.content-box tbody th, .content-box tbody td {
+	padding-top: 0.3rem;
+	padding-bottom: 0.425rem;
+}
+
 .blog-preview {
 	height: 15em;
 	margin-bottom: 1.5em;
