@@ -67,12 +67,16 @@ Ships are generally split into different Classifications (or "Classes") that rou
 # Ships
 Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
 ## Arena Combat Vessel Mark IX
-Manufactur| y
+Manufacturer| Starlight R&D
 ------------|------------
 Classification | Special
-Classification |Special
+Restrictions|Arena Use Only
+Primary Weapon Slots | Unlimited
+Secondary Weapon Slots | Unlimited
+Utility Slots | [CLASSIFIED]
+Item Slots | [
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszNzU1OTE4MjYsMTE5MzAxMjc2
-NCwtMTAzNDAyNTkxN119
+BnZm1cbiIsImhpc3RvcnkiOlsxOTc0Mzk4Mzc3LDExOTMwMTI3
+NjQsLTEwMzQwMjU5MTddfQ==
 -->
