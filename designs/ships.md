@@ -44,15 +44,16 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
 Each is susceptible to different kinds of damage and are repaired in different ways.
 ### Shields
-The first line of defence is the *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
+The *Kinetic Impact Shielding System* (KISS or Shields, usually the latter) really hasn't changed much since its inception.  
 A projected energy field around a ship deflects incoming projectiles and explosives with relative ease.  
 What is new is the increasing prevalence of energy weaponry being fitted to ships. It may shrug of shards of titanium being flung at it and explosive shock waves, a hard blast with a directed energy weapon rapidly overloads the shield systems internal reactor.  
 Shields recharge on their own over time.  
 Shields can be reinforced or rapidly recharged with power from a ships capacitor, however this uses a lot of power very quickly.
 ### Armour Plating
-The second line of defence is the *Ablative Hardened Armour Plating* (AHAB or Armour), 
+The second line of defence is the *Ablative Hardened Armour Plating* (AHAB or Armour, usually the latter). It is pretty much what it says on the tin, a reinforced skin of armour plating that covers the hull of a ship.  
+It generally dissipates energy weapons with ease, but can have chunks knocked out of it by kinetic weapons, or holes blown in it with explosive
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTE0NTgzOSwtMTAzNDAyNTkx
-N119
+BnZm1cbiIsImhpc3RvcnkiOlstMTgwOTcwMzQ5LC0xMDM0MDI1
+OTE3XX0=
 -->
