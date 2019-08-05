@@ -6,8 +6,8 @@ Everything is subject to change or removal at any time.
 Items written in *italics* are generally placeholder or undecided names at this time.
 
 ---
-### - [Ships](polar-engine/designs/ships)
+### - [Ships](designs/ships)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTcwNzA5LC0xNDU2NTg5NzcxLDkyNT
-c4NDkwMCwtMTM3MjQ2NzQ4NV19
+eyJoaXN0b3J5IjpbMTQwMzYzMDcsLTE0NTY1ODk3NzEsOTI1Nz
+g0OTAwLC0xMzcyNDY3NDg1XX0=
 -->
