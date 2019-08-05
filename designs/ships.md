@@ -11,16 +11,20 @@ Although some manufacturers have been known to deviate from standard designs.
 Each ship manufacturer has their own preferred reactor design and fuelling method.  
 It's main purpose is to recharge the *RD/R Capacitors* aboard a ship.  
 Connecting a reactor directly to ship systems is... ill advised.  
-Reactor overloads will result in the **(catastrophic destruction of a ship and cause damage to nearby ships.
+Reactor overloads will result in the **catastrophic destruction** of a ship and cause damage to nearby ships.
 ### RD/R Capacitor Bank
 The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requirements.  
-Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and System Boosters.
+Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and System Boosters.  
+If a capacitor overload is detected, the system will shut down and reset for safety reasons.
 
 ## Propulsion
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships with the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor though and will drain power rapidly.  
+
+## Inertial Damper Systems
+Inertial dampers help 
 
 ## Weapons Array
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
@@ -39,6 +43,6 @@ Turning off the overheat protection on the weapons array is **highly advised aga
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzMyNjM2Nzk0LC0xMDM0MDI1
+BnZm1cbiIsImhpc3RvcnkiOlsxODQ4ODkyODMyLC0xMDM0MDI1
 OTE3XX0=
 -->
