@@ -68,6 +68,7 @@ They are usually incredibly powerful, or particularly niche.
 # Ships
 Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
 ## Arena Combat Vessel Mark IX
+
 Manufacturer| Starlight R&D
 ------------|------------
 Classification | Special
@@ -90,6 +91,6 @@ The Mark 9 is their latest and greatest creation with the ability to pick up and
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxOTc3NzYyMDYyLDExOTMwMTI3
-NjQsLTEwMzQwMjU5MTddfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNDcyOTU5MzY0LDE5Nzc3NjIw
+NjIsMTE5MzAxMjc2NCwtMTAzNDAyNTkxN119
 -->
