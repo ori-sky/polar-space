@@ -94,6 +94,8 @@ body {
 
 .content-box > section > h2 {
 	font-variant: small-caps;
+	font-size: 1.5rem;
+	font-weight: bold;
 }
 
 .content-box > section img {
