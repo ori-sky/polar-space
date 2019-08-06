@@ -20,8 +20,16 @@ Notes | Fires a short range burst of molten shrapnel. The closer a target is, th
 
 ## Energy Weapons
 
+HEP Technologies | Phased Pulse Cannon
+-|-
+Ammo | Infinite
+Heat | [CLASSIFIED]HU/s
+Damage | Low/Mid
+Notes | Simple energy weapon, fires bolts of phased plasma at near supersonic speeds.
+
+Hyperion | Polarised Energy Beam
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDMzMTQxNCw3MDExNDEyNDcsMjEyMz
+eyJoaXN0b3J5IjpbMjA0NTMxNDY0Miw3MDExNDEyNDcsMjEyMz
 UxOTY5MF19
 -->
