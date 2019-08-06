@@ -40,6 +40,7 @@ Weapons that use a power core to produce energy projectiles or beams to damage s
 | Ammo | [CLASSIFIED] |
 | Heat | High |
 | Damage | High |
+| Fire Rate | Beam |
 | Range | Low |
 | Notes | High Energy Beam Weapon (short range hitscan), excels at chewing up shields. |
 
@@ -48,6 +49,7 @@ Weapons that use a power core to produce energy projectiles or beams to damage s
 | Ammo | [CLASSIFIED] |
 | Heat | Mid/High |
 | Damage | Low - High |
+| Fire Rate | Chargeable |
 | Range | Mid |
 | Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
 
@@ -59,10 +61,11 @@ Weapons that can equally or alternately produce energy or kinetic damage.
 | Ammo | [CLASSIFIED] |
 | Heat | Mid/High |
 | Damage | Low - High |
-| Range | Mid |
+| Fire Rate | Low |
+| Range | V/High |
 | Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjU5NTUyNCwxMjI5Mzg4MTksLTE2Nj
-U2ODc5ODYsLTIwMTQzODg2MjIsNzAxMTQxMjQ3LDIxMjM1MTk2
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTc0NzQwMTE0LDEyMjkzODgxOSwtMTY2NT
+Y4Nzk4NiwtMjAxNDM4ODYyMiw3MDExNDEyNDcsMjEyMzUxOTY5
+MF19
 -->
