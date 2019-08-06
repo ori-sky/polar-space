@@ -59,7 +59,7 @@ Weapons that can equally or alternately produce energy or kinetic damage.
 | HEP Technologies | Mark V Railgun |
 | -|- |
 | Ammo | [CLASSIFIED] |
-| Heat | Mid/High |
+| Heat | High |
 | Damage | V/High |
 | Fire Rate | V/Low |
 | Range | V/High |
@@ -67,7 +67,7 @@ Weapons that can equally or alternately produce energy or kinetic damage.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI2NjUyMzUsMTIyOTM4ODE5LC0xNj
-Y1Njg3OTg2LC0yMDE0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5
-NjkwXX0=
+eyJoaXN0b3J5IjpbLTYyOTMwMjgxMCwtMTM2MjY2NTIzNSwxMj
+I5Mzg4MTksLTE2NjU2ODc5ODYsLTIwMTQzODg2MjIsNzAxMTQx
+MjQ3LDIxMjM1MTk2OTBdfQ==
 -->
