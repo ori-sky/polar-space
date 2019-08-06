@@ -16,7 +16,7 @@ K&H | EX3 Shrapnel Cannon
 Ammo | [CLASSIFIED]
 Heat | [CLASSIFIED]HU/s
 Damage | Low
-Notes | Simple projectile weapon, fires reconstituted shards of absorbed space dust.
+Notes | Fires a short range burst of molten shrapnel. The closer a target is, the more damage is done.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTE4MTA4MiwyMTIzNTE5NjkwXX0=
+eyJoaXN0b3J5IjpbNzAxMTQxMjQ3LDIxMjM1MTk2OTBdfQ==
 -->
