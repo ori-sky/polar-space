@@ -3,6 +3,7 @@ title: Weapons and Utilities
 ---
 # Primary Weaponry
 ## Kinetic Weapons
+Weapons that use some kind of propelled physical ammunition to damage ships. (Effective against Armour and Hull)
 
 | K&H | TX1 Vulkan Cannon |
 | -|- |
@@ -21,7 +22,7 @@ title: Weapons and Utilities
 | Notes | Fires a short range burst of molten shrapnel. The closer a target is, the more damage is done. |
 
 ## Energy Weapons
-Weapons that use a power core to produce energy projectiles or beams to dama
+Weapons that use a power core to produce energy projectiles or beams to damage ships. (Effective against Shields)
 
 | HEP Technologies | Phased Pulse Cannon |
 | -|- |
@@ -48,9 +49,9 @@ Weapons that use a power core to produce energy projectiles or beams to dama
 | Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
 
 ## Hybrid Weaponry
-
+Weapons that can equally or alternately produce energy or ki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE1OTM4MjQsMTIyOTM4ODE5LC0xNj
-Y1Njg3OTg2LC0yMDE0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5
-NjkwXX0=
+eyJoaXN0b3J5IjpbMTczMDA0MTUwOSwxMjI5Mzg4MTksLTE2Nj
+U2ODc5ODYsLTIwMTQzODg2MjIsNzAxMTQxMjQ3LDIxMjM1MTk2
+OTBdfQ==
 -->
