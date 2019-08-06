@@ -3,12 +3,14 @@ title: Weapons and Utilities
 ---
 # Primary Weaponry
 ## Kinetic Weapons
+Weapons that use some kind of propelled physical ammunition to damage ships. (Effective against Armour and Hull)
 
 | K&H | TX1 Vulkan Cannon |
 | -|- |
 | Ammo | Infinite |
 | Heat | Low |
 | Damage | Low |
+| Fire Rate | Mid |
 | Range | Mid |
 | Notes | Simple projectile weapon, fires reconstituted shards of absorbed space dust. |
 
@@ -17,16 +19,19 @@ title: Weapons and Utilities
 | Ammo | [CLASSIFIED] |
 | Heat | Mid |
 | Damage | Mid/High |
+| Fire Rate | Low |
 | Range | Low |
 | Notes | Fires a short range burst of molten shrapnel. The closer a target is, the more damage is done. |
 
 ## Energy Weapons
+Weapons that use a power core to produce energy projectiles or beams to damage ships. (Effective against Shields)
 
 | HEP Technologies | Phased Pulse Cannon |
 | -|- |
 | Ammo | Infinite |
 | Heat | Mid |
 | Damage | Low/Mid |
+| Fire Rate | Mid |
 | Range | Mid |
 | Notes | Simple energy weapon, fires bolts of phased plasma at near supersonic speeds. |
 
@@ -35,6 +40,7 @@ title: Weapons and Utilities
 | Ammo | [CLASSIFIED] |
 | Heat | High |
 | Damage | High |
+| Fire Rate | Beam |
 | Range | Low |
 | Notes | High Energy Beam Weapon (short range hitscan), excels at chewing up shields. |
 
@@ -43,11 +49,25 @@ title: Weapons and Utilities
 | Ammo | [CLASSIFIED] |
 | Heat | Mid/High |
 | Damage | Low - High |
+| Fire Rate | Chargeable |
 | Range | Mid |
 | Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
 
+## Hybrid Weaponry
+Weapons that can equally or alternately produce energy or kinetic damage.
+
+| HEP Technologies | Mark V Railgun |
+| -|- |
+| Ammo | [CLASSIFIED] |
+| Heat | High |
+| Damage | V/High |
+| Fire Rate | V/Low |
+| Range | V/High |
+| Notes | Hybrid Railgun that fires a highly energised, ultra-high velocity projectile extreme distances.  Loaded ammunition changes damage type. |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTM4ODE5LC0xNjY1Njg3OTg2LC0yMD
-E0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5NjkwXX0=
+eyJoaXN0b3J5IjpbLTYyOTMwMjgxMCwtMTM2MjY2NTIzNSwxMj
+I5Mzg4MTksLTE2NjU2ODc5ODYsLTIwMTQzODg2MjIsNzAxMTQx
+MjQ3LDIxMjM1MTk2OTBdfQ==
 -->
