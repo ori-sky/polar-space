@@ -42,7 +42,9 @@ ProTek | Charged Burst Laser
 -|-
 Heat | Mid/High
 Damage | Low - High
+Range | Mid
+Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDE1MzA3Nyw3MDExNDEyNDcsMjEyMz
-UxOTY5MF19
+eyJoaXN0b3J5IjpbLTIwMTQzODg2MjIsNzAxMTQxMjQ3LDIxMj
+M1MTk2OTBdfQ==
 -->
