@@ -60,12 +60,14 @@ Weapons that can equally or alternately produce energy or kinetic damage.
 | -|- |
 | Ammo | [CLASSIFIED] |
 | Heat | Mid/High |
-| Damage | Low - High |
-| Fire Rate | Low |
+| Damage | V/High |
+| Fire Rate | V/Low |
 | Range | V/High |
-| Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
+| Notes | Hybrid Railgun that fires a highly energised, ultra-high velocity projectile extreme distances.  Loaded ammunition changes damage type. |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzQwMTE0LDEyMjkzODgxOSwtMTY2NT
-Y4Nzk4NiwtMjAxNDM4ODYyMiw3MDExNDEyNDcsMjEyMzUxOTY5
-MF19
+eyJoaXN0b3J5IjpbLTEzNjI2NjUyMzUsMTIyOTM4ODE5LC0xNj
+Y1Njg3OTg2LC0yMDE0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5
+NjkwXX0=
 -->
