@@ -17,6 +17,11 @@ Ammo | [CLASSIFIED]
 Heat | [CLASSIFIED]HU/s
 Damage | Low
 Notes | Fires a short range burst of molten shrapnel. The closer a target is, the more damage is done.
+
+## Energy Weapons
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTQxMjQ3LDIxMjM1MTk2OTBdfQ==
+eyJoaXN0b3J5IjpbMTkyMDMzMTQxNCw3MDExNDEyNDcsMjEyMz
+UxOTY5MF19
 -->
