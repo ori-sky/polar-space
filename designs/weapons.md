@@ -44,7 +44,9 @@ Heat | Mid/High
 Damage | Low - High
 Range | Mid
 Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQzODg2MjIsNzAxMTQxMjQ3LDIxMj
-M1MTk2OTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NjU2ODc5ODYsLTIwMTQzODg2MjIsNz
+AxMTQxMjQ3LDIxMjM1MTk2OTBdfQ==
 -->
