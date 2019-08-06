@@ -4,8 +4,8 @@ title: Weapons and Utilities
 # Primary Weaponry
 ## Kinetic Weapons
 
-K&H | TX1 Vulkan Cannon
-| -|- 
+| K&H | TX1 Vulkan Cannon |
+| -|- |
 | Ammo | Infinite |
 | Heat | Low |
 | Damage | Low |
@@ -48,6 +48,6 @@ K&H | TX1 Vulkan Cannon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQxNTQ2OSwtMTY2NTY4Nzk4NiwtMj
-AxNDM4ODYyMiw3MDExNDEyNDcsMjEyMzUxOTY5MF19
+eyJoaXN0b3J5IjpbMTIyOTM4ODE5LC0xNjY1Njg3OTg2LC0yMD
+E0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5NjkwXX0=
 -->
