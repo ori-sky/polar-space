@@ -97,6 +97,52 @@ Actually, the engine is already designed around the concept of actions. An actio
 | Pitch         | analog (decimal) |
 | Roll          | analog (decimal) |
 
+If we ensure that any actions performed in the game are actually represented as these digital or analog actions in the engine, actions will be sufficient data in order to ensure an accurate simulation matching those of the server and other clients. Let's take a look now at the action data to be sent each frame. We'll exclude the header this time.
+
+For digital actions:
+
+| Field                   | Size (bytes)    |
+| ----------------------- | ---------------:|
+| Number of actions (_n_) |               2 |
+| Action IDs              |         _n_ x 2 |
+| __Total__               | ___n_ x 2 + 2__ |
+
+For analog actions:
+
+| Field                        | Size (bytes)            |
+| ---------------------------- | -----------------------:|
+| Number of actions (_n_)      |                       2 |
+| Action IDs with float values | _n_ x (2 + 4) = _n_ x 6 |
+| __Total__                    |         ___n_ x 6 + 2__ |
+
+With this new approach, a packet encapsulating every possible player action (6 digitals and 3 analogs) would be sized as follows.
+
+| Portion         | Size (bytes)    |
+| --------------- | ---------------:|
+| IP Header       |              16 |
+| UDP Header      |               4 |
+| Packet Header   |               9 |
+| Digital Actions |  6 x 2 + 2 = 14 |
+| Analog Actions  |  3 x 6 + 2 = 20 |
+| __Total__       |          __63__ |
+
+So in the worst case scenario, assuming we again specify a 2-byte unique object ID to perform these actions on, our packets will be __65__ bytes. That's 31.73 KiB for 500 objects performing all possible actions simultaneously. Across one second, that's 317.38 KiB/s.
+
+In the best case scenario, where no actions are performed at all, it'll be as follows.
+
+| Portion         | Size (bytes)    |
+| --------------- | ---------------:|
+| IP Header       |              16 |
+| UDP Header      |               4 |
+| Packet Header   |               9 |
+| Digital Actions |   0 x 2 + 2 = 2 |
+| Analog Actions  |   0 x 6 + 2 = 2 |
+| __Total__       |          __33__ |
+
+With a unique object ID, that's __35__ bytes. For 500 objects, that's 16.11 KiB. Across one second, that's 161.13 KiB/s.
+
+As you can see, even in the worst case scenario, the bandwidth usage of the action protocol is just 46.8% of that of the state protocol, and in the best case it goes down to a mere 23.7%. However, there are countless way of optimizing this further. For example, instead of sending a whole packet per object, we can just consolidate them into the one packet, specifying an object count _o_ and then including _o_ sets of action data in the packet. Another one— ifthere are no actions to send, don't send anything at all.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzI4MDUwMl19
 -->
