@@ -1,6 +1,6 @@
 ---
 title: The Journey to UDP Multiplayer
-category: Draft
+category: Technical
 author: 🗲 Shockk
 description: A detailed overview of the work I've done to properly support server/client networking.
 ---
