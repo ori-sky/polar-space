@@ -141,7 +141,17 @@ In the best case scenario, where no actions are performed at all, it'll be as fo
 
 With a unique object ID, that's __35__ bytes. For 500 objects, that's 16.11 KiB. Across one second, that's 161.13 KiB/s.
 
-As you can see, even in the worst case scenario, the bandwidth usage of the action protocol is just 46.8% of that of the state protocol, and in the best case it goes down to a mere 23.7%. However, there are countless way of optimizing this further. For example, instead of sending a whole packet per object, we can just consolidate them into the one packet, specifying an object count _o_ and then including _o_ sets of action data in the packet. Another one— ifthere are no actions to send, don't send anything at all.
+As you can see, even in the worst case scenario, the bandwidth usage of the action protocol is just 46.8% of that of the state protocol, and in the best case it goes down to a mere 23.7%. However, there are countless way of optimizing this further. For example, instead of sending a whole packet per object, we can just consolidate them into the one packet, specifying an object count _o_ and then including _o_ sets of action data in the packet. Another one—if there are no actions to send, don't send anything at all.
+
+# Conclusion
+
+A lot of work has had to be done to get to this point, most notably to the engine's action system as it didn't allow us to specialize actions/bindings/triggers for specific object IDs when we began. However, the real challenge lies directly ahead.
+
+By the nature of actions, they represent some kind of event happening at a particular point in time. However, sending actions over the network introduces some delay. Even if the network has a perfect latency of 0ms and there's no delay in the hardware or the IP stack of the operating system, the network system only runs at 10 fps, so it isn't going to account for actions that happen during any of the other 40 frames per second in the integrator or action systems.
+
+Our next step is to do a major rework of the integrator and action systems to allow us to __rewind__ time, either by applying the reverse list of actions or by simply returning to a previous saved state, apply incoming remote actions at the timestamp specified by the packet, and then __replay__ the action list on top of the new state.
+
+Supporting the rewinding and replaying of time/actions will be a huge undertaking as I'll probably need to touch huge portions of the engine, but a few weeks ago I probably wouldn't even have considered it feasible. Now I can see the end in sight, and although it's still going to be at least a few more weeks before it's done, I'm really looking forward to seeing it finally work.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzI4MDUwMl19
