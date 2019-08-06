@@ -29,10 +29,5 @@ We only have a vague idea of what we are doing, so this website is as experiment
 
 ### Ok, I'm interested. How do I follow your progress?
 There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with [posts by members of the team](/polar-space/blog).  
-The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2OTA1MjUzLC0yMTIyNTg5MzQ0LC00Nj
-Q0NTc3MDMsLTU4MjE3MDQ0OCw1NTU2NTg4OTUsLTYwMjYxMjcw
-NywtMTk2MDI3MjMxNiwtMTIwMjg2MTUwNywtMjQ1MzIyOTQ0LD
-QzMTI4MTAwMl19
--->
+The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.  
+

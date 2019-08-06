@@ -10,7 +10,5 @@ Items written in *italics* are generally placeholder or undecided names at this 
 ### - [Backstory](designs/story)
 ### - [Ships](designs/ships)
 ### - [Weapons & Utilities](designs/weapons)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUxNDE2OTEsNDcyNDQ1OTYyLC0xND
-U2NTg5NzcxLDkyNTc4NDkwMCwtMTM3MjQ2NzQ4NV19
--->
+
+

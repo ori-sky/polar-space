@@ -90,9 +90,4 @@ A powerful and versatile ship with near unlimited expandability built to operate
 The Mark 9 is their latest and greatest creation with the ability to pick up and equip any compatible weapon, utility or deployable. So powerful is this ship, the *SCF* passed a universal decree the instant the first prototype was conceived. All ACVs will be restricted for use inside designated “Arena Zones”. Any pilot attempting to take their ACV out of an arena would trigger a *Reactor Overload*, destroying the ship.
 
 The ACV IX is only available in “Classic Arena” mode and starts with *The Vulkan Cannon* and *Phased Pulse Cannon* weapons pre-fitted, with the rest collectable from “fitting points” distributed around the arena.
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTE1NTY3NjU0LDIwMTk3MDU5
-NDQsMTYwNTMwNzIyMSwtNDcyOTU5MzY0LDE5Nzc3NjIwNjIsMT
-E5MzAxMjc2NCwtMTAzNDAyNTkxN119
--->
+

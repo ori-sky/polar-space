@@ -66,8 +66,4 @@ Weapons that can equally or alternately produce energy or kinetic damage.
 | Notes | Hybrid Railgun that fires a highly energised, ultra-high velocity projectile extreme distances.  Loaded ammunition changes damage type. |
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTMwMjgxMCwtMTM2MjY2NTIzNSwxMj
-I5Mzg4MTksLTE2NjU2ODc5ODYsLTIwMTQzODg2MjIsNzAxMTQx
-MjQ3LDIxMjM1MTk2OTBdfQ==
--->
+

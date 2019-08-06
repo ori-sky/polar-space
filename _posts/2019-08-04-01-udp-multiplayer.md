@@ -88,7 +88,7 @@ Actually, the engine is already designed around the concept of actions. An actio
 | Action        | Type             |
 | ------------- | ---------------- |
 | Move forward  | digital (on/off) |
-| Move backward | digital (on/off) | 
+| Move backward | digital (on/off) |
 | Move left     | digital (on/off) |
 | Move right    | digital (on/off) |
 | Move up       | digital (on/off) |
@@ -153,6 +153,5 @@ Our next step is to do a major rework of the integrator and action systems to al
 
 Supporting the rewinding and replaying of time/actions will be a huge undertaking as I'll probably need to touch huge portions of the engine, but a few weeks ago I probably wouldn't even have considered it feasible. Now I can see the end in sight, and although it's still going to be at least a few more weeks before it's done, I'm really looking forward to seeing it finally work.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0Nzk5MzUxLDE0MzcyODA1MDJdfQ==
--->
+
+
