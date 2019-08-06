@@ -108,7 +108,7 @@ body {
 }
 
 .content-box table {
-	min-width: 50%;
+	width: 50%;
 }
 
 .content-box tbody th, .content-box tbody td {
