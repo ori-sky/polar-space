@@ -21,6 +21,7 @@ title: Weapons and Utilities
 | Notes | Fires a short range burst of molten shrapnel. The closer a target is, the more damage is done. |
 
 ## Energy Weapons
+Weapons that use a power core to produce energy projectiles or beams to dama
 
 | HEP Technologies | Phased Pulse Cannon |
 | -|- |
@@ -46,8 +47,10 @@ title: Weapons and Utilities
 | Range | Mid |
 | Notes | High Energy Laser Weapon (mid range hitscan), deals more damage the longer you charge it up.  Generates Heat whilst charging/charge is held.  Charges up to a maximum damage value, or can be pulsed for small damage |
 
+## Hybrid Weaponry
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTM4ODE5LC0xNjY1Njg3OTg2LC0yMD
-E0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5NjkwXX0=
+eyJoaXN0b3J5IjpbLTE2NDE1OTM4MjQsMTIyOTM4ODE5LC0xNj
+Y1Njg3OTg2LC0yMDE0Mzg4NjIyLDcwMTE0MTI0NywyMTIzNTE5
+NjkwXX0=
 -->
