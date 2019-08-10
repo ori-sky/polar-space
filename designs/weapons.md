@@ -217,14 +217,6 @@ title: Weapons and Utilities
 | Notes           | Incoming weapons fire disrupts the effect                    |
 | Marketing Blurb | Throw off weapon locks, disrupt missiles, jam enemy radar, all in one convenient package. |
 
-| Starlight R&D   | Wide Area Sensor Jammer                                      |
-| --------------- | ------------------------------------------------------------ |
-| Effect          | Disrupts weapon locks, Missile tracking and Enemy Radar      |
-| Energy Use      | V/High                                                       |
-| Cooldown        | High                                                         |
-| Notes           | Incoming weapons fire disrupts the effect                    |
-| Marketing Blurb | Throw off weapon locks, disrupt missiles, jam enemy radar, all in one convenient package. |
-
 ## Pickup
 
 **Utilities picked up during combat from fitting areas inside the arena or on allied Capital Ships**  
