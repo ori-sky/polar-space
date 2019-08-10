@@ -2,7 +2,7 @@
 title: Drafts We Be Writing
 layout: blog
 ---
-{% assign posts = site.posts | where_exp: "post", "post.category = 'Draft'" %}
+{% assign posts = site.posts | where_exp: "post", "post.category == 'Draft'" %}
 {::nomarkdown}
 {% for post in posts %}
 	<div class="large-4 medium-6 small-12 cell">
