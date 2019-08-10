@@ -1,5 +1,5 @@
 ---
-title: Design Documents and Concepts
+title: Releases
 ---
 
 ### No Releases Yet, Sorry :(
