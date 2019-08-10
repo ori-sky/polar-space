@@ -7,6 +7,7 @@ title: Prototype Checklist
 - [ ] Single Projectile Weapon
 - [ ] Ship Health
 - [ ] Basic networking (server/client or p2p)
+  -	[ ] Client Sync
 - [ ] Simple “AI” target
 - [x] Simple “Asteroid Field” map
 
