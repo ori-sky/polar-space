@@ -2,13 +2,18 @@
 title: About the Team
 ---
 
-# 🦊 The Fox, Lead Designer
+# 🦊 The Fox, Project Manager
 
-Fox in a human suit.  
-Shh, don't tell anyone!
+![](/polar-space/assets/img/207435086_e1733f05ea_b.jpg)
 
 
 
 # 🗲 Shockk, Lead Programmer
 
 Code Daemon
+
+
+
+# 🐰 The Rabbit, Pixel Pusher
+
+Doesn't remember what a good night sleep feels like.
