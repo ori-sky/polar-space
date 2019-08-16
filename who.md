@@ -8,7 +8,7 @@ title: About the Team
 
 
 
-# 🗲 Shockk, Lead Programmer
+# ⚡ Shockk, Lead Programmer
 
 Code Daemon
 

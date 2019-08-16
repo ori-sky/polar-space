@@ -1,7 +1,7 @@
 ---
 title: The Journey to UDP Multiplayer
 category: Technical
-author: 🗲 Shockk
+author: ⚡ Shockk
 description: A detailed overview of the work I've done to properly support server/client networking.
 ---
 It's been a long road forward since the creation of our engine, with seemingly infinite meandering twists and turns along the way, but over the last few weeks we've finally reached a point where we can say we have working netcode. Well, sort of. But how exactly did we get to this point, and what challenges did we face on the journey? Those questions are what I'm aiming to answer in this blog post.
