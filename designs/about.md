@@ -13,12 +13,15 @@ title: About the Nitty Gritty
 ### Minimum
 
 - OpenGL 3.1 capable GPU
+- 128MB Free RAM
+- Windows 7
 
 ### Recommended
 
 - A computer made some time in the last 5 years
-
-
+- 512MB Free RAM
+- 1GB Graphics RAM
+- Windows 10
 
 # What's your build environment like?
 
