@@ -33,24 +33,24 @@ title: About the Nitty Gritty
 
 5 Test Systems
 
-- Custom Built PC
+- ⚡ Custom Built PC
   - CPU : 
   - GPU :
   - OS : Windows 10 (1903)
-- Razer Blade Stealth
-  - CPU : 
-  - GPU : 
-  - OS : Windows 10 (1903)
-- Macbook Pro
+- ⚡ Macbook Pro
   - CPU : 
   - GPU : 
   - OS : 
-- Panasonic CF-53A "Toughbook"
+- 🦊 Razer Blade Stealth
+  - CPU : 
+  - GPU : 
+  - OS : Windows 10 (1903)
+- 🦊 Panasonic CF-53A "Toughbook"
   - CPU : Intel Core i5-2520M
   - GPU : Intel HD Graphics 3000
   - OS : Windows 10 (1903)
-- Clevo W230ST
-  - CPU : 
+- 🦊 Clevo W230ST
+  - CPU : Intel Core i7-4700MQ
   - GPU : nVidia GeForce GTX 765M / Intel HD Graphics 4600
   - OS : Windows 10 (1903)
 
