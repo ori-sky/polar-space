@@ -5,7 +5,10 @@ title: The Ships of "Spacegame"
 All *Sol Central Federation* (SCF) based ships follow similar component design concepts.  
 Although some manufacturers have been known to deviate from standard designs.
 
+
+
 ## Ship Power Systems
+
 *SCF* Ship power systems are split into two components, the *Central Reactor Core* (Reactor) and a *Rapid Discharge/Recharge Capacitor Bank* (RD/R Capacitor).  
 Ship Energy is measured in *Power Units* (PU).
 ### Reactor
@@ -18,18 +21,27 @@ The *Rapid Discharge/Recharge Capacitor Bank* is the core of a ships power requi
 Systems that do not have self-contained power sources will tap from it to function, such as Utilities, Items, Pickups and System Boosters.  
 If a capacitor overload is detected, the system will shut down and reset for safety reasons.
 
+
+
 ## Propulsion
+
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor and will drain power rapidly.  
 Ship speed is measured in *Meters per Second* (m/s).
 
+
+
 ## Inertial Damper System
+
 Inertial dampers help pilots keep control of their ship by ensuring that the ship reacts predictably to pilot inputs.  
 Some pilots like to disable the IDS to "drift" their ship or perform other acrobatics whilst flying. This is not recommended as it severely reduces the manoeuvrability of a ship.
 
+
+
 ## Weapons Array
+
 *SCF* ships have a class standardised weapons array allowing them to fit a wide variety of "Primary" and "Secondary" weapons for specific types of hull.  
 Primary weapons are usually forward firing energy or kinetic weapons.  
 Secondary weapons are usually pylon mounted missiles or rockets.  
@@ -46,7 +58,10 @@ There are some situations where power from the capacitor power can be routed to 
 Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of a ship.**  
 Heat Dissipation and Generation is measured in *Heat Units per Second* (HU/s)
 
+
+
 ## Defensive Systems
+
 *SCF* Ships have a triple-layered defensive system made up of *Shield*, *Armour*, and *Hull*.  
 Each is susceptible to different kinds of damage and are repaired in different ways.  
 Damage received, like damage dealt is measured in *Damage Units* (DU)
@@ -64,13 +79,31 @@ Armour plating requires specially programmed nanobots to repair it whilst in fli
 The vulnerable flesh beneath all the shielding and armour plate. Whilst energy weapons still do reduced damage to this layer, kinetic weapons can do significant damage, with a well placed explosive shot destroying some smaller ships in one shot.  
 A ships hull can be repaired in flight, but the procedure requires specially programmed nanobots to be used.
 
+
+
+## Long Range Remote Neural Interface System (RNIS)
+
+Ships are (comparibly) cheap, skilled pilots are not.  
+If protracted space wars have taught us anything, it's that you can't put your best fighters on the front line, ironically enough.  
+That's where the *RNIS* comes in.  
+Ships don't actually have pilots, they have an advanced onboard AI that interprets and executes flight instructions given to them by pilots located in control centres, either aboard capital ships, planets or industrual installations.  
+Their range is not infinite, and sometimes a satelite relay network is required for support. However, more often than not, pilots aren't directly in harms way during a battle.  
+If the ship they are piloting is destroyed control is transferred to another ship which is launched when ready.  
+If a ship is detected leaving a combat zone, the pilot's control is cut and the AI takes over, either returning the ship to the combat area or initiating a reactor overload.
+
+
+
 # Ship Classes
+
 Ships are generally split into different Classifications (or "Classes") that roughly describe their role.
 ## Special Classification
 "Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation.  
 They are usually incredibly powerful, or particularly niche.
 
+
+
 # Ships
+
 Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
 ## Arena Combat Vessel Mark IX
 
