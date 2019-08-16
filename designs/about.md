@@ -4,13 +4,19 @@ title: About the Nitty Gritty
 
 # What Powers "Spacegame"
 
-~~Duct tape and spite~~
+"Spacegame" is powered by the [Polar Engine](https://github.com/polar-engine/polar) which is under ongoing development by [⚡ Shockk](https://github.com/shockkolate)
 
 
 
 # What do I need to run "Spacegame"?
 
-~~The Monolith~~
+### Minimum
+
+- OpenGL 3.1 capable GPU
+
+### Recommended
+
+- A computer made some time in the last 5 years
 
 
 
@@ -22,9 +28,28 @@ title: About the Nitty Gritty
 
 # What do you test "Spacegame" with?
 
-~~Stuff~~
+5 Test Systems
 
-
+- Custom Built PC
+  - CPU : 
+  - GPU :
+  - OS : Windows 10 (1903)
+- Razer Blade Stealth
+  - CPU : 
+  - GPU : 
+  - OS : Windows 10 (1903)
+- Macbook Pro
+  - CPU : 
+  - GPU : 
+  - OS : 
+- Panasonic CF-53A "Toughbook"
+  - CPU : Intel Core i5-2520M
+  - GPU : Intel HD Graphics 3000
+  - OS : Windows 10 (1903)
+- Clevo 
+  - CPU : 
+  - GPU : 
+  - OS : Windows 10 (1903)
 
 # Why "Spacegame"?
 
