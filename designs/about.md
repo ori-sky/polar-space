@@ -46,9 +46,9 @@ title: About the Nitty Gritty
   - CPU : Intel Core i5-2520M
   - GPU : Intel HD Graphics 3000
   - OS : Windows 10 (1903)
-- Clevo 
+- Clevo W230ST
   - CPU : 
-  - GPU : 
+  - GPU : nVidia GeForce GTX 765M / Intel HD Graphics 4600
   - OS : Windows 10 (1903)
 
 # Why "Spacegame"?
