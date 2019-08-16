@@ -69,6 +69,7 @@ Staying on track and keeping development focussed on each set of specific featur
 But if we can ensure that we stay focussed on our feature goals for each "expansion" we should be able to keep development going at a reasonable pace.
 
 [The Design Document](https://shockkolate.github.io/polar-space/design) is a "living" document and will be updated and polished as we continue development. Some features will be added, some features will be removed.  
-Once the Google Doc has been fully ported over, I plan to keep a [record](https://shockkolate.github.io/polar-space/design/cutting-room) of stuff that was cut from development and why.
+Once the Google Doc has been fully ported over, I plan to keep a [record](https://shockkolate.github.io/polar-space/designs/cutting-room) of stuff that was cut from development and why.
 
 -{{ page.author }}
+
