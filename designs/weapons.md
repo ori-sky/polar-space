@@ -217,6 +217,14 @@ title: Weapons and Utilities
 | Notes           | Incoming weapons fire disrupts the effect                    |
 | Marketing Blurb | Throw off weapon locks, disrupt missiles, jam enemy radar, all in one convenient package. |
 
+|Starlight R&D | Mass Translocator|
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Instantly jumps a ship to a deployed Translocator beacon      |
+| Energy Use      | High                                                       |
+| Cooldown        | High                                                         |
+| Notes           | A pilot may choose to set the coordinates to "Random" and jump without a beacon. This is dangerous as it is not known where in a battle area you may end up.<br>Ship systems are disrupted for a few seconds after jumping.|
+| Marketing Blurb | Blink instantly to your destination with the Starlight Mass Translocator. Baffle friends, surprise enemies.  |
+
 ## Pickup
 
 **Utilities picked up during combat from fitting areas inside the arena or on allied Capital Ships**  
@@ -246,6 +254,7 @@ title: Weapons and Utilities
 |-|-|
 |Class|Installed|
 |Effect| Deployed in two parts, the High Mass Translocator can be used to instantly jump ships that use it from one "gate" to the other. <br>Not the most stable of technologies, "gates" are prone to collapse after used by a lot of ships in a short period, or if they take moderate weapons fire.|
+|Note | A single point variant of this exists, the *"Translocator Beacon"*, which can be jumped to by any teammate with a *Translocator Utility* fitted. The *High Mass Translocator* allows anyone to pass through without having to fit anything special.|
 
 | HEP Technologies | FastLock™ Automatic-Tracking Turret System |
 |-|-|
