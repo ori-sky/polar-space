@@ -180,7 +180,7 @@ title: Weapons and Utilities
 # Utilities
 
 **Special tools that take up the "utility" slot, usually affect your ship in some way**  
-**Utilities are split into "Installed" and "Pickup"**
+**Utilities are split into "Installed", "Pickup" and "Deployable"**
 
 ## Installed
 
@@ -236,3 +236,21 @@ title: Weapons and Utilities
 | --------------- | ------------------------------------------------------------ |
 | Effect          | Energises armour plating to increase its damage resistance.      |
 | Notes      | Does not recharge.                                                      |
+
+## Deployable
+
+**Utilities that fit into either of the above categories, but can be deployed in an active state by the ship carrying them**  
+**Deployable Utilities are activated on demand and take up an "Item" or "Utility" slot depending on how they are acquired**
+
+| Starlight R&D | High Mass Translocator |
+|-|-|
+|Class|Installed|
+|Effect| Deployed in two parts, the High Mass Translocator can be used to instantly jump ships that use it from one "gate" to the other. <br>Not the most stable of technologies, "gates" are prone to collapse after used by a lot of ships in a short period, or if they take moderate weapons fire.|
+
+| HEP Technologies | FastLock™ Automatic-Tracking Turret System |
+|-|-|
+|Class|Installed|
+|Effect | When deployed the ATS will automatically target any enemy ships that pass nearby and open fire with hybrid rounds, dealing moderate damage to shields, armour and hull.|
+|Health | Low|
+|Damage | Moderate (Universal)|
+|Tracking Speed | High|
