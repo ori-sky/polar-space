@@ -96,6 +96,8 @@ If a ship is detected leaving a combat zone, the pilot's control is cut and the 
 # Ship Classes
 
 Ships are generally split into different Classifications (or "Classes") that roughly describe their role.
+## Light
+"Light" ships generally do not have many fittings, but are fast, hard to track and quick to recover from full capacitor discharge or overheat.
 ## Special Classification
 "Special" ships generally do not fit into other classifications or are somehow restricted by *SCF* Legislation.  
 They are usually incredibly powerful, or particularly niche.
@@ -105,11 +107,27 @@ They are usually incredibly powerful, or particularly niche.
 # Ships
 
 Many ships have been developed and constructed in *The Sol Central Federation* over the years, this is not an exhaustive list.
+## NES Type 1 "Technician"
+
+Manufacturer| Nicer Engineering Systems | Classification | Light
+-|-|-|-
+**Hull Configuration** | Light Cruiser | **Capacitor** | [CLASSIFIED]PU
+**Restrictions** | Can only fit Utilities in Secondary Slots<br>Can only fit TX1 and PPC in Primary Slots | **Reactor Maximum Output** | [CLASSIFIED]PU/s
+**Primary Weapon Slots** | 2 (Fixed) | **Shield** | [CLASSIFIED]DU
+**Secondary Weapon Slots** | 2 | **Shield Recharge Rate** | [CLASSIFIED]DU/s
+**Utility Slots** | [CLASSIFIED] | **Armour** | [CLASSIFIED]DU
+**Item Slots** | [CLASSIFIED] | **Hull** | [CLASSIFIED]DU
+**Manoeuvrability** | High | **Top Speed** | [CLASSIFIED]m/s
+**Heat Dissipation Rate** | [CLASSIFIED]HU/s | **IFD Overdrive Power** | High
+
+A powerful and flexible engineering platform built for repairing ships in flight, or deploying support systems in an active battle zone.  
+Whilst not designed for dealing much damage itself, it can carry *enhanced repair beams*, deploy powerful *sentry turrets* and/or deploy *High Mass Translocators* for other ships to use.
+
 ## Arena Combat Vessel Mark IX
 
 Manufacturer| Starlight R&D | Classification | Special
 -|-|-|-
-**Classification** | Special | **Capacitor** | [CLASSIFIED]PU
+**Hull Configuration** | Heavy Cruiser | **Capacitor** | [CLASSIFIED]PU
 **Restrictions** | Arena Use Only | **Reactor Maximum Output** | [CLASSIFIED]PU/s
 **Primary Weapon Slots** | Unlimited | **Shield** | [CLASSIFIED]DU
 **Secondary Weapon Slots** | Unlimited | **Shield Recharge Rate** | [CLASSIFIED]DU/s
