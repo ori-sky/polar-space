@@ -95,7 +95,7 @@ A ships hull can be repaired in flight, but the procedure requires specially pro
 Ships are (comparibly) cheap, skilled pilots are not.  
 If protracted space wars have taught us anything, it's that you can't put your best fighters on the front line, ironically enough.  
 That's where the *RCPS* comes in.   
-Pilots are placed in a stasis field in a control centre, either aboard capital ships, planets or industrual installations near the combat zone. Synthetic "clones" are then produced with a basic onboard "AI". These "Clones" pilot the ships in place of a biological pilot. The Pilot's conciousness is then connected to the "clone" via a remote uplink.  
+Pilots are placed in a stasis field at a control centre, either aboard capital ships, planets or industrual installations near the combat zone. Synthetic "clones" are then produced with a basic onboard "AI". These "Clones" pilot the ships in place of a biological pilot. The Pilot's conciousness is then connected to the "clone" via a remote uplink.  
 The range is not infinite, and sometimes a satelite relay network is required for support. However, more often than not, pilots aren't directly in harms way during a battle.  
 If the ship they are piloting is destroyed control is transferred to another "clone" which is placed into a ship, and launched when ready.  
 If a ship is detected leaving a combat zone, the pilot's link is cut and the AI takes over, either returning the ship to the combat area or initiating a reactor overload.
