@@ -16,8 +16,8 @@ title: Site Development Navigation
 
 [Technical About](designs/about)  (Unpublished)  
 [The Cutting Room Floor](designs/cutting-room)  (Unpublished)  
-[Prototype Goals](prototype)  (Published)  
+[Prototype Goals](designs/prototype)  (Published)  
 [Ship Concepts](designs/ships)  (Published)  
 [The Story So Far](designs/story)   (Published)  
-[Weapon Concepts](weapons)  (Published)  
+[Weapon Concepts](designs/weapons)  (Published)  
 
