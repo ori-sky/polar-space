@@ -24,14 +24,23 @@ If a capacitor overload is detected, the system will shut down and reset for saf
 
 
 ## Propulsion
-
+### Sublight Travel
 All *SCF* ships use a *Charged Ion Friction Drive* (or "IFD") for primary propulsion.  
 Usually directed out the back of the ship through adjustable exhaust nozzles with some of the energy directed through forward facing manifolds to provide ships the ability to fly backwards at only slightly reduced top speeds.  
 The IFD is a self contained, highly efficient system that does not use main ship power during normal operation.  
 However most ships are also fitted with an *IFD Overdrive System* that can tap power from the ships capacitor to increase thrust drastically. This is incredibly taxing on the capacitor and will drain power rapidly.  
 Ship speed is measured in *Meters per Second* (m/s).
+### Faster Than Light
+The official method of faster than light travel in the *SCF* is performed with *The Slipstream Drive*.  
+Working on the principal of folding space, *The Slipstream Drive* allows ships fitted with one to travel at speeds once thought physically impossible.  
+However, the energy and compute power costs of safely navigating slipstream space without a landing beacon or target gate is immense. As a result, only Capital Ships and specially designed Scout Ships are ever fitted with a *Slipstream Drive*.  
+Scout Ships with a *Slipstream Drive* usually do not have a powerful weapons array or particularly heavy armour to keep the density and complexity of the ship low to allow a "small" *Slipstream Drive* to be installed, and to make navigation easier.
 
+Short range FTL is performed with *Translocators*, which work on the same principal as *Slipstream* but operate in a point-to-point fashion within a set range.  
+A beacon *must be present* for a ship fitted with a *Translocator* to be able to jump.  
+(Engineering Note: "Random Translocation" is *technically* possible. But it is just that, Random. With no beacon to lock onto, the *Translocator* will literally jump a ship to *anywhere* within it's maximum range. There is no navigation beyond that. Operation of a *Translocator* in this fashion is considered *ill advised*.)
 
+*Translocator Gates* can be set up in pairs to allow ships without a *Translocator* fitted to jump between them. They have a similar range to a *Translocator Beacon*, and are prone to collapse if overused or damaged. They effectively function like a "Portal" or "Wormhole" instantly moving a ship from one end to the other.
 
 ## Inertial Damper System
 
