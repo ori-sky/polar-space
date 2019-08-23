@@ -186,13 +186,13 @@ title: Weapons and Utilities
 
 **Utilities built into your ship, pre-installed during fitting, cannot be removed**
 
-| Argent Racing Technologies | Turbo Jump Drive                                             |
+| Argent Racing Technologies | Micro Slipstream Drive                                       |
 | -------------------------- | ------------------------------------------------------------ |
 | Effect                     | Jumps ship forward a set distance after a short charge-up (ship dependant) |
 | Energy Use                 | V/High                                                       |
 | Cooldown                   | High                                                         |
 | Notes                      | Impacting objects will result in instant ship destruction    |
-| Marketing Blurb            | After a short charge time, the TJD leaps you forward a great distance in an instant!<br/>Perform a tactical retreat, or a surprise attack! Just don’t jump into a rock!<br/>Leap forward a set distance after a small charge time (ship dependent)<br/>Hitting scenery will destroy you instantly.<br/>Uses large amount of Energy for a jump, has cooldown |
+| Marketing Blurb            | After a short charge time, the MSD leaps you forward a great distance in an instant!<br/>Perform a tactical retreat, or a surprise attack! Just don’t jump into a rock!<br/>Leap forward a set distance after a small charge time (ship dependent)<br/>Hitting scenery will destroy you instantly.<br/>Uses large amount of Energy for a jump, has cooldown |
 
 | Starlight R&D   | Mark IIX “Ghost” Cloaking Device                             |
 | --------------- | ------------------------------------------------------------ |
