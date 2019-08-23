@@ -202,12 +202,12 @@ title: Weapons and Utilities
 | Notes           | Firing weapons, using utilities or taking damage will cause the cloak generator to overload and shut down.<br />Using Afterburners will cause a "Shimmering" effect that makes the ship partially visible. |
 | Marketing Blurb | Vanish like a ghost in an instant! The Mark 8 “Ghost” Cloak will render you invisible to everyone and everything, as long as your energy reserves hold up. |
 
-| Satbilitek | Inertial Dampening Enhancer                                  |
-| ---------- | ------------------------------------------------------------ |
-| Effect     | Overcharges Inertial Dampers on a ship to make it more maneuverable. |
-| Energy Use | Low                                                          |
-| Cooldown   | None                                                         |
-| Notes      | Reduces ship top speed, ship slows faster whilst active.<br />Using Afterburner or other engine mods drains energy faster. |
+| Argent Racing Technologies | Inertial Dampening Enhancer                                  |
+| -------------------------- | ------------------------------------------------------------ |
+| Effect                     | Overcharges Inertial Dampers on a ship to make it more maneuverable. |
+| Energy Use                 | Low                                                          |
+| Cooldown                   | None                                                         |
+| Notes                      | Reduces ship top speed, ship slows faster whilst active.<br />Using Afterburner or other engine mods drains energy faster. |
 
 | Starlight R&D   | Wide Area Sensor Jammer                                      |
 | --------------- | ------------------------------------------------------------ |
