@@ -14,7 +14,8 @@ title: Site Development Navigation
 
 # Designs
 
-[Technical About](designs/about)  (Unpublished)  
+[Technical About](designs/about)  (Unpublished)    
+[Arena and Gamemode Concepts](designs/arenas) (Published)  
 [The Cutting Room Floor](designs/cutting-room)  (Unpublished)  
 [Prototype Goals](designs/prototype)  (Published)  
 [Ship Concepts](designs/ships)  (Published)  

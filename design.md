@@ -9,6 +9,7 @@ Current names and concepts are currently placeholders or undecided at this time.
 ### - [Prototype Checklist](designs/prototype)
 ### - [Backstory](designs/story)
 ### - [Ships](designs/ships)
+### - [Arenas and Gamemodes](designs/arenas)
 ### - [Weapons & Utilities](designs/weapons)
 
 
