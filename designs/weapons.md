@@ -245,6 +245,36 @@ title: Weapons and Utilities
 | Effect          | Energises armour plating to increase its damage resistance.      |
 | Notes      | Does not recharge.                                                      |
 
+| ProTek   | Emergency Shield Recharger                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Injects a large amount of power into a ship’s shield grid fully recharging the shields in one burst.      |
+| Notes      | Single Use.                                                      |
+
+| Argent Racing Technologies   | Afterburner Overdriver                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Overloads a ship’s afterburners to provide an even greater burst of speed when afterburners are deployed      |
+| Notes      | Can only be used for a limited amount of time for “safety reasons” and is then jettisoned.                                                      |
+
+| Starlight R&D   | Reactor Overclocker                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Overloads a ship’s energy reactor forcing it to recharge faster than recommended safety limits      |
+| Notes      | Can only be used for a limited amount of time for “safety reasons” and is then jettisoned                                                      |
+
+| Starlight R&D   | Heatsink Overclocker                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Overspeeds the heat pump that draws heat away from a ship's weapons array.      |
+| Notes      | Can only be used for a limited amount of time for “safety reasons” and is then jettisoned.                                                      |
+
+| Screaming Eagle Systems   | Doomsday Bomb                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | Devastating AOE Weapon (Universal Damage)      |
+| Notes      | Why fire missiles, when you can be the missile?<br>Ship Destroyed on Use<br>Requires line of sight, deflected/dispersed by dense objects and scenery.                                                      |
+
+| Grey Matter Technologies   | EMP Disruptor                                     |
+| --------------- | ------------------------------------------------------------ |
+| Effect          | A single blast from this weapon disables all utilities in range and takes a chunk out of the energy reserves of nearby ships.      |
+| Notes      | Indiscriminate, anyone nearby is affected.<br>Deploying vessel has energy reserves drained to 0 and cannot recharge for a period of time whilst their ship “reboots”.<br>All weapons except *Vulcan Cannon* are frozen.<br>Requires line of sight, deflected/dispersed by dense objects and scenery.                                                      |
+
 ## Deployable
 
 **Utilities that fit into either of the above categories, but can be deployed in an active state by the ship carrying them**  
