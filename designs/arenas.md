@@ -6,7 +6,7 @@ title: Arenas and Gamemodes
 
 ## Deathmatch (dm)
 
-Exacty what it says on the tin, free-for-all deathmatch in an arena.  
+Exactly what it says on the tin, free-for-all deathmatch in an arena.  
 *Victory Condition*: Pilot with highest score after time limit reached, or first player to reach point limit  
 (also comes in "team deathmatch (tdm) flavour")
 
