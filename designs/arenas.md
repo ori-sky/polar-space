@@ -55,3 +55,8 @@ Teams must attempt to collect resources from the arena with specialised mining/c
 
 > Randomly generated asteroid field, possibly with other objects/hazards
 
+## dm_rings
+
+> A dense series of asteroid rings surrounding a massive gas giant planet.
+> An orbital station/mining platform extracts materials from the rings/planet with high power mining beams.
+> Flying too close to the planet or into the beams will result in your destruction.
