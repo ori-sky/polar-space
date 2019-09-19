@@ -35,7 +35,7 @@ title: Weapons and Utilities
 | Range | Mid |
 | Notes | Simple energy weapon, fires bolts of phased plasma at near supersonic speeds. |
 
-| Hyperion | Polarised Energy Beam |
+| Phoebe Energy Systems | Polarised Energy Beam |
 | -|- |
 | Ammo | [CLASSIFIED] |
 | Heat | High |
@@ -106,7 +106,7 @@ title: Weapons and Utilities
 | Damage                  | Extreme                                                      |
 | Notes                   | Pylon mounted “dumb” rocket, flies fast, flies straight, deals devastating explosive damage |
 
-| Hyperion    | StunLok™ Missile                                             |
+| Phoebe Energy Systems    | StunLok™ Missile                                             |
 | ----------- | ------------------------------------------------------------ |
 | Ammo        | [CLASSIFIED]                                                 |
 | Damage Type | Disruptive - Propulsion                                      |
