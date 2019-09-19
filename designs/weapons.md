@@ -35,7 +35,7 @@ title: Weapons and Utilities
 | Range | Mid |
 | Notes | Simple energy weapon, fires bolts of phased plasma at near supersonic speeds. |
 
-| Phoebe Energy Systems | Polarised Energy Beam |
+| Krakatoa Energy Solutions Ltd | Polarised Energy Beam |
 | -|- |
 | Ammo | [CLASSIFIED] |
 | Heat | High |
@@ -106,7 +106,7 @@ title: Weapons and Utilities
 | Damage                  | Extreme                                                      |
 | Notes                   | Pylon mounted “dumb” rocket, flies fast, flies straight, deals devastating explosive damage |
 
-| Phoebe Energy Systems    | StunLok™ Missile                                             |
+| Krakatoa Energy Solutions Ltd    | StunLok™ Missile                                             |
 | ----------- | ------------------------------------------------------------ |
 | Ammo        | [CLASSIFIED]                                                 |
 | Damage Type | Disruptive - Propulsion                                      |
