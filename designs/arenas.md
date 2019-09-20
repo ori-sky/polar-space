@@ -33,8 +33,8 @@ Teams must attempt to collect resources from the arena with specialised mining/c
 ## Raiders (raid)
 
 A fully loaded cargo freighter is moving into position to jump into slipstream space.  
-Team 1 must defend the freighter as it moves into position, whilst it is very heavily armoured, it can't withstand a sustained assault on its own.
-Team 2 must destroy the freighter before it enters slipstream.
+Team 1 must defend the freighter as it moves into position, whilst it is very heavily armoured, it can't withstand a sustained assault on its own.  
+Team 2 must destroy the freighter before it enters slipstream.  
 *Victory Condition*: Team 1 wins if the freighter jumps successfully. Team 2 wins if they destroy the freighter.
 
 # Map/Arena Concepts
