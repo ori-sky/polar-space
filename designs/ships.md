@@ -106,7 +106,7 @@ If a ship is detected leaving a combat zone, the pilot's link is cut and the AI 
 
 ## Universal Safety Override Control (USOC)
 
-The *Universal Safety Override Control* (Sometimes called the "F*ck it button" by pilots)  is a system incorporated into most *SCF* ships allowing a pilot to elect to ignore various warnings and safety lockouts being enforced by the Ships computer.  
+The *Universal Safety Override Control* (Sometimes called the "F\*ck it button" by pilots)  is a system incorporated into most *SCF* ships allowing a pilot to elect to ignore various warnings and safety lockouts being enforced by the Ships computer.  
 This enables pilots to perform actions that are deemed "unsafe" such as firing weapons with an overheated weapons array or engaging *slipstream* when safe conditions aren't fully met.  
 This allows for some advanced manoeuvres at the cost of potential ship damage.  
 **USAGE OF THE USOC IS STRONGLY DISCOURAGED AS IT MAY RESULT IN THE DESTRUCTION OF YOUR SHIP**  
