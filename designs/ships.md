@@ -41,7 +41,7 @@ Short range FTL is performed with *Translocators* or a *Micro Slipstream Drive*,
 A beacon *must be present* for a ship fitted with a *Translocator* to be able to jump.  
 (Engineering Note: "Random Translocation" is *technically* possible. But it is just that, Random. With no beacon to lock onto, the *Translocator* will literally jump a ship to *anywhere* within it's maximum range. There is no navigation beyond that. Operation of a *Translocator* in this fashion is considered *ill advised*.)  
 *Translocator Gates* can be set up in pairs to allow ships without a *Translocator* fitted to jump between them. They have a similar range to a *Translocator Beacon*, and are prone to collapse if overused or damaged. They effectively function like a "Portal" or "Wormhole" instantly moving a ship from one end to the other.  
-*Transolcators* are carefully tuned to the mass of a ship. Mining ships with a full cargo hold cannot safely translocate. The larger the mass differential, the more likely a translocation attempt will result in catastrophic failure.  
+*Translocators* are carefully tuned to the mass of a ship. Mining ships with a full cargo hold cannot safely translocate. The larger the mass differential, the more likely a translocation attempt will result in catastrophic failure.  
 Effects can range from it taking time for the ship to recalculate a *Translocation Vector* before a safe jump can be made, up to a ship being destroyed in a slipstream collapse.
 
 The *Argent Racing Technologies Micro Slipstream Drive* operates just like it's (much) bigger brother. However to reduce energy and computational overheads, it only jumps a ship forward a set distance when activated. The overall effect being that a ship is accelerated to extreme sublight speeds for a short period.
@@ -67,7 +67,7 @@ Their power may be endless, but most Primary Weapons (some Secondary, and some U
 This is drawn away by a *heat pump* which channels the heat away from the weapons array.  
 It can only draw away a certain amount of heat over time.  
 If an overheat situation is detected the weapons array will completely shut off until it has fully cooled for safety reasons.  
-There are some situations where power from the capacitor power can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
+There are some situations where power from the capacitor can be routed to the *heat pump* to increase it's operational speed and draw heat away quicker.  
 Turning off the overheat protection on the weapons array is **highly advised against and may lead to the destruction of a ship.**  
 Heat Dissipation and Generation is measured in *Heat Units per Second* (HU/s)
 
@@ -94,17 +94,23 @@ A ships hull can be repaired in flight, but the procedure requires specially pro
 
 
 
-## Remote Conciousness Projection System (RCPS)
+## Remote Consciousness Projection System (RCPS)
 
-Ships are (comparibly) cheap, skilled pilots are not.  
+Ships are (comparably) cheap, skilled pilots are not.  
 If protracted space wars have taught us anything, it's that you can't put your best fighters on the front line, ironically enough.  
 That's where the *RCPS* comes in.   
-Pilots are placed in a stasis field at a control centre, either aboard capital ships, planets or industrual installations near the combat zone. Synthetic "clones" are then produced with a basic onboard "AI". These "Clones" pilot the ships in place of a biological pilot. The Pilot's conciousness is then connected to the "clone" via a remote uplink.  
-The range is not infinite, and sometimes a satelite relay network is required for support. However, more often than not, pilots aren't directly in harms way during a battle.  
+Pilots are placed in a stasis field at a control centre, either aboard capital ships, planets or industrial installations near the combat zone. Synthetic "clones" are then produced with a basic onboard "AI". These "Clones" pilot the ships in place of a biological pilot. The Pilot's consciousness is then connected to the "clone" via a remote uplink.  
+The range is not infinite, and sometimes a satellite relay network is required for support. However, more often than not, pilots aren't directly in harms way during a battle.  
 If the ship they are piloting is destroyed control is transferred to another "clone" which is placed into a ship, and launched when ready.  
 If a ship is detected leaving a combat zone, the pilot's link is cut and the AI takes over, either returning the ship to the combat area or initiating a reactor overload.
 
+## Universal Safety Override Control (USOC)
 
+The *Universal Safety Override Control* (Sometimes called the "F*ck it button" by pilots)  is a system incorporated into most *SCF* ships allowing a pilot to elect to ignore various warnings and safety lockouts being enforced by the Ships computer.  
+This enables pilots to perform actions that are deemed "unsafe" such as firing weapons with an overheated weapons array or engaging *slipstream* when safe conditions aren't fully met.  
+This allows for some advanced manoeuvres at the cost of potential ship damage.  
+**USAGE OF THE USOC IS STRONGLY DISCOURAGED AS IT MAY RESULT IN THE DESTRUCTION OF YOUR SHIP**  
+**USAGE OF THE USOC WILL VOID YOUR COMPONENT WARRANTIES**
 
 # Ship Classes
 

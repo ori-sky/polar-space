@@ -293,3 +293,10 @@ title: Weapons and Utilities
 |Health | Low|
 |Damage | Moderate (Universal)|
 |Tracking Speed | High|
+
+| Grey Matter Technologies | Slipstream Inhibitor |
+|-|-|
+|Class|Installed|
+|Effect | When deployed the *Slipstream Inhibitor* prevents all forms of *Slipstream Drive* from powering up by scrambling its targeting computer. |
+|Range | Low|
+|Notes | *Translocators* can still function using the safety override. However, they will be forced into an even more unpredictable "random translocate" mode. *OPERATION OF SLIPSTREAM TECHNOLOGY WITHIN AN INHIBITOR FIELD IS HIGHLY DISCOURAGED*|
