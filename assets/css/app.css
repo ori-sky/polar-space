@@ -17,7 +17,8 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;*/
-	margin-top: 5%;
+	/*margin-top: 5%;*/
+	margin-top: 0px;
 	text-shadow: 1px 0.5px 1px rgba(0,0,0,0.9);
 	font-family: "Wallpoet", cursive;
 	font-variant: small-caps;
@@ -41,7 +42,8 @@ body {
 }
 
 .top-bar ul > li > a {
-	margin-top: 5%;
+	/*margin-top: 5%;*/
+	margin-top: 0px;
 	text-shadow: 1px 0.5px 1px rgba(0,0,0,0.9);
 	font-family: "Wallpoet", cursive;
 	font-variant: small-caps;
