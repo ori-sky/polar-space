@@ -67,3 +67,10 @@ Team 2 must destroy the freighter before it enters slipstream.
 > A dense series of asteroid rings surrounding a massive gas giant planet.
 > An orbital station/mining platform extracts materials from the rings/planet with high power mining beams.
 > Flying too close to the planet or into the beams will result in your destruction.
+
+## dm_citadel94
+
+> Once a bustling hub of trade, research and exploration now lays abandoned and derelict after the Station AI went insane, killing everyone aboard.  
+> Now it's a self contained indoor combat arena with all the trimmings.  
+> A tight, claustrophobic and labyrinthine place, you never know what is around the next corner.  
+> Corridors and hangars are littered with the remains of the once busy station.
