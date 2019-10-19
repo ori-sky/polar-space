@@ -15,7 +15,7 @@ title: Potential Voice Line Concepts
 "Please stand by whilst I enable your primary Ion Friction Drive... Your primary IFD is now enabled, please fly forward, then come to a complete halt." (Graphic shown as demonstration)  
 "Now, please stand by whilst I enable your secondary IFD... Your secondary IFD is now enabled, please fly backwards, then come to a complete halt." (Graphic shown as demonstration)    
 "I have enabled your IFD Overdrive System, please enable it and fly forward, then come to a complete halt." (Graphic shown as demonstration)  
-"You will have noticed that using your IFD Overdrive used stored capacitor energy. Prolonged usage of IFD Overdrive is not recommended as a result."  
+"You will have noticed that deploying your IFD Overdrive has drained some of your stored capacitor energy. Prolonged usage of IFD Overdrive is not recommended as a result."  
 
 
 ## General Greeting
