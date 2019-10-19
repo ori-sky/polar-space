@@ -4,7 +4,7 @@ title: About the Team
 
 # 🦊 The Fox, Project Manager
 
-![](/polar-space/assets/img/207435086_e1733f05ea_b.jpg)
+![](/polar-space/assets/img/who/207435086_e1733f05ea_b.jpg)
 
 
 
