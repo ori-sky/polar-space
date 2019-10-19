@@ -21,4 +21,4 @@ title: Site Development Navigation
 [Ship Concepts](designs/ships)  (Published)  
 [The Story So Far](designs/story)   (Published)  
 [Weapon Concepts](designs/weapons)  (Published)  
-
+[Voice Lines](designs/voice)  (Unpublished)
