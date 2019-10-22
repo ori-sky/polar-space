@@ -47,4 +47,8 @@ title: Potential Voice Line Concepts [Unpublished]
 
 ## Weapons Array
 
+- (Notification) "Ammunition Low"
+- (Notification) "Ammunition Depleted"
+- "[Weapon Name] Acquired" (Arena Only)
+- (Notification) "Weapons Array Overheated. Initiating Cooldown Procedure."
 - 
