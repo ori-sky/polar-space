@@ -24,7 +24,8 @@ title: Potential Voice Line Concepts
 
 "Your ship is equipped with primary and secondary weapons arrays. I am enabling the first slot of the primary weapons array now." (weapon online sound cue)  
 "I have highlighted a target for you, please line it up in your targeting reticule and pull on your primary weapons trigger."  
-"That weapon you fired was the K&H TX1 Vulkan Cannon. It is a projectile weapon that draws in space debris and fires it out"
+"That weapon you fired was the K&H TX1 Vulkan Cannon. It is a simple projectile weapon that fires reconstituted shards of absorbed space dust. It is moderately effective at damaging armour and hull plating."  
+"I have now added shields to the highlighted target, please resume firing."
 
 
 ## General Greeting
