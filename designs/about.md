@@ -1,5 +1,5 @@
 ---
-title: About the Nitty Gritty
+title: About the Nitty Gritty [Unpublished]
 ---
 
 # What Powers "Spacegame"
