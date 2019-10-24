@@ -51,4 +51,15 @@ title: Potential Voice Line Concepts [Unpublished]
 - (Notification) "Ammunition Depleted"
 - "[Weapon Name] Acquired" (Arena Only)
 - (Notification) "Weapons Array Overheated. Initiating Cooldown Procedure."
-- 
+- (Alarm) "Overheat" (Firing with override active)
+
+## Navigation
+
+- (Notification) "Proximity" (Another ship nearby/within certain range)
+- "Translocation beacon locked. Initialising Slipstream Drive..."
+- (Notification) "No Translocation Beacon targeted"
+- (Notification) "Initialising Random Translocation"
+- (Notification) "Not enough power to engage Slipstream Drive."
+- "Entering slipstream in 5, 4, 3, 2, 1..."
+- (Klaxon) "SLIPSTREAM COLLAPSE IMMINENT" (dropping from a failed slipstream jump)
+
